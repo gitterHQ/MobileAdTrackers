@@ -1283,7 +1283,6 @@
 0.0.0.0 applab-sdk.amazon.com
 0.0.0.0 aps.amazon.com
 0.0.0.0 astore.amazon.com
-0.0.0.0 completion.amazon.com
 0.0.0.0 device-metrics-us.amazon.com
 0.0.0.0 device-metrics-us-2.amazon.com
 0.0.0.0 fls-eu.amazon.com
@@ -1314,13 +1313,6 @@
 0.0.0.0 aax-us-east.amazon-adsystem.com
 0.0.0.0 aax-us-east-rtb.amazon-adsystem.com
 0.0.0.0 aax-us-east-rtb-adx.amazon-adsystem.com
-0.0.0.0 aax-us-east-test.amazon-adsystem.com
-0.0.0.0 aax-us-east-test1.amazon-adsystem.com
-0.0.0.0 aax-us-east-test2.amazon-adsystem.com
-0.0.0.0 aax-us-east-test3.amazon-adsystem.com
-0.0.0.0 aax-us-east-test4.amazon-adsystem.com
-0.0.0.0 aax-us-east-test5.amazon-adsystem.com
-0.0.0.0 aax-us-east-test6.amazon-adsystem.com
 0.0.0.0 aax-us-pdx.amazon-adsystem.com
 0.0.0.0 aax-us-pdx-rtb.amazon-adsystem.com
 0.0.0.0 aax-us-pdx-rtb-adx.amazon-adsystem.com
@@ -1394,8 +1386,6 @@
 0.0.0.0 z-na.amazon-adsystem.com
 0.0.0.0 checkip.amazonaws.com
 0.0.0.0 appsflyer-web-4-962407740.eu-west-1.elb.amazonaws.com
-0.0.0.0 lb1-217593028us-east-1.elb.amazonaws.com
-0.0.0.0 rp-lb-766892831us-east-1.elb.amazonaws.com
 0.0.0.0 settings-crashlytics-1410998606us-east-1.elb.amazonaws.com
 0.0.0.0 settings-crashlytics-b-103974621us-east-1.elb.amazonaws.com
 0.0.0.0 rpc-tapjoy-com-lb-1378811527.us-east-1.elb.amazonaws.com
