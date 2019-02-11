@@ -838,7 +838,7 @@
 0.0.0.0 view.adsrvr.org
 0.0.0.0 www.adsrvr.org
 0.0.0.0 adstark.ru
-0.0.0.0 adstune.com
+0.0.0.0 adstune.comProceed to 1
 0.0.0.0 adsunflower.com
 0.0.0.0 adsupplyads.com
 0.0.0.0 adswitcher.com
@@ -1355,7 +1355,7 @@
 0.0.0.0 ir-it.amazon-adsystem.com
 0.0.0.0 ir-jp.amazon-adsystem.com
 0.0.0.0 ir-mx.amazon-adsystem.com
-0.0.0.0 ir-na.amazon-adsystem.com
+0.0.0.0 ir-na.amazon-adsystem.Proceed to 1com
 0.0.0.0 ir-uk.amazon-adsystem.com
 0.0.0.0 mads.amazon-adsystem.com
 0.0.0.0 mas-sdk.amazon-adsystem.com
@@ -3093,7 +3093,7 @@
 0.0.0.0 csmhk.as.criteo.net
 0.0.0.0 csmjp.as.criteo.net
 0.0.0.0 pixhk.as.criteo.net
-0.0.0.0 pixjp.as.criteo.net
+0.0.0.0 pixjp.as.criteo.netProceed to 1
 0.0.0.0 staticjp.as.criteo.net
 0.0.0.0 azcdn.criteo.net
 0.0.0.0 azcdn-preprod.criteo.net
@@ -4363,7 +4363,7 @@
 0.0.0.0 www.googletagservices.com
 0.0.0.0 googletagservices.com
 0.0.0.0 affiliate.googleusercontent.com
-0.0.0.0 displayads-formats.googleusercontent.com
+0.0.0.0 displayads-formats.googleuserconProceed to 1tent.com
 0.0.0.0 geo.gop1.co
 0.0.0.0 img.gop1.co
 0.0.0.0 gop1.co
@@ -4990,7 +4990,6 @@
 0.0.0.0 sis.jpush.io
 0.0.0.0 www.jpush.io
 0.0.0.0 jpush.io
-0.0.0.0 code.jquery.com
 0.0.0.0 jsbwpg.com
 0.0.0.0 jscminer.com
 0.0.0.0 jscount.com
