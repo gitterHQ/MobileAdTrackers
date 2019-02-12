@@ -1,6 +1,5 @@
 *$data
 *$inline-font,third-party
-*$inline-script,third-party
 *$font,third-party
 *$no_type
 *$object
@@ -12,3 +11,11 @@
 *$webrtc
 *$websocket
 *$xmlhttprequest,third-party
+www.reddit.com##.onboardingbar.subscribebar.infobar
+
+||fonts.googleapis.com^$important
+||*/quantcast-choice/*$important
+||*/wp-content/plugins/disqus-comment-system/*$important
+@@||*.googlevideo.com/videoplayback$xmlhttprequest,domain=www.youtube.com
+||*/wordpress/wp-admin/admin-ajax.php?*count*$xmlhttprequest
+||*/wp-content/plugins/*counter.php$xmlhttprequest
