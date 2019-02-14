@@ -1231,8 +1231,6 @@
 0.0.0.0 aax.amazon-adsystem.amazon.com
 0.0.0.0 device-metrics-us.amazon.com
 0.0.0.0 device-metrics-us-2.amazon.com
-0.0.0.0 fls-eu.amazon.com
-0.0.0.0 fls-na.amazon.com
 0.0.0.0 mads.amazon.com
 0.0.0.0 mads-eu.amazon.com
 0.0.0.0 mas-ext.amazon.com
