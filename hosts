@@ -3601,12 +3601,7 @@
 0.0.0.0 maven.fabric.io
 0.0.0.0 fabric.io
 0.0.0.0 an.facebook.com
-0.0.0.0 b-api.facebook.com
-0.0.0.0 b-graph.facebook.com
-0.0.0.0 edge-mqtt.facebook.com
-0.0.0.0 edge-star-shv-01-bom1.facebook.com
 0.0.0.0 error.facebook.com
-0.0.0.0 mqtt-mini.facebook.com
 0.0.0.0 pixel.facebook.com
 0.0.0.0 api.factual.com
 0.0.0.0 faloge.com
