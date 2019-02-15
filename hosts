@@ -273,6 +273,7 @@
 0.0.0.0 addash.co
 0.0.0.0 addealing.com
 0.0.0.0 adapi.addealsnetwork.com
+0.0.0.0 ads.adecosystems.net
 0.0.0.0 ads.adecosystems.tech
 0.0.0.0 sdk01.adecosystems.tech
 0.0.0.0 adelva.com
@@ -313,6 +314,7 @@
 0.0.0.0 adgroups.net
 0.0.0.0 adgrx.com
 0.0.0.0 adhands.ru
+0.0.0.0 ads-roularta.adhese.com
 0.0.0.0 ivid-cdn.adhigh.net
 0.0.0.0 ivid-f5-us-va.adhigh.net
 0.0.0.0 px.adhigh.net
@@ -1109,6 +1111,7 @@
 0.0.0.0 api.airbrake.io
 0.0.0.0 ssljscdn.airbrake.io
 0.0.0.0 airbrake.io
+0.0.0.0 glassbox.aircanada.ca
 0.0.0.0 appwall.api.airpush.com
 0.0.0.0 api.airpush.com
 0.0.0.0 apidm.airpush.com
@@ -1292,6 +1295,7 @@
 0.0.0.0 z-fe.amazon-adsystem.com
 0.0.0.0 z-in.amazon-adsystem.com
 0.0.0.0 z-na.amazon-adsystem.com
+0.0.0.0 amazon-adsystem.com
 0.0.0.0 appsflyer-web-4-962407740.eu-west-1.elb.amazonaws.com
 0.0.0.0 rpc-tapjoy-com-lb-1378811527.us-east-1.elb.amazonaws.com
 0.0.0.0 tapjoy-com-lb-vpc-332546193.us-east-1.elb.amazonaws.com
@@ -1624,6 +1628,7 @@
 0.0.0.0 appnext.com
 0.0.0.0 appnexus.com
 0.0.0.0 appnexus.net
+0.0.0.0 adwatch.appodeal.com
 0.0.0.0 api.appodeal.com
 0.0.0.0 appodeal.com
 0.0.0.0 api.appodealx.com
@@ -3709,6 +3714,7 @@
 0.0.0.0 sdk-info.gimbal.com
 0.0.0.0 collector.githubapp.com
 0.0.0.0 sidecar.gitter.im
+0.0.0.0 glassboxdigital.com
 0.0.0.0 js.gleam.io
 0.0.0.0 ads.glispa.com
 0.0.0.0 exp.glispa.com
@@ -6451,6 +6457,7 @@
 0.0.0.0 33across-d.openx.net
 0.0.0.0 aa-d.openx.net
 0.0.0.0 activenetwork-d.openx.net
+0.0.0.0 admarvel-d.openx.net
 0.0.0.0 admediaspace-d.openx.net
 0.0.0.0 adnimation-d.openx.net
 0.0.0.0 adnimation1-d.openx.net
@@ -7549,6 +7556,7 @@
 0.0.0.0 safelyawake.com
 0.0.0.0 sageanalyst.net
 0.0.0.0 d.la1-c2-iad.salesforceliveagent.com
+0.0.0.0 api.salmonads.com
 0.0.0.0 eu-ad.sam4m.com
 0.0.0.0 eu-ma.sam4m.com
 0.0.0.0 sam4m.com
@@ -8001,6 +8009,7 @@
 0.0.0.0 load.sumome.com
 0.0.0.0 sumome.com
 0.0.0.0 trk.superads.cn
+0.0.0.0 ads.superawesome.tv
 0.0.0.0 exchange.superfastmediation.com
 0.0.0.0 monitor.superfastmediation.com
 0.0.0.0 track.superfastmediation.com
@@ -8532,6 +8541,7 @@
 0.0.0.0 quangcao.thanhnien.vn
 0.0.0.0 static.thedevband.com
 0.0.0.0 thedevband.com
+0.0.0.0 theglassbox.com
 0.0.0.0 theirsvendor.com
 0.0.0.0 theoremreach.com
 0.0.0.0 analytics-tracker.thescore.com
@@ -8679,6 +8689,7 @@
 0.0.0.0 appshelf.ttpsdk.info
 0.0.0.0 houseads.ttpsdk.info
 0.0.0.0 ttringwall.com
+0.0.0.0 ad-mediation.tuanguwen.com
 0.0.0.0 tubedspots.com
 0.0.0.0 rtd.tubemogul.com
 0.0.0.0 activity.tuifish.com
@@ -8863,6 +8874,7 @@
 0.0.0.0 upsight.com
 0.0.0.0 batch.upsight-api.com
 0.0.0.0 bootstrap.upsight-api.com
+0.0.0.0 marketing-ssl.upsight-api.com
 0.0.0.0 single.upsight-api.com
 0.0.0.0 upsight-api.com
 0.0.0.0 upsnap.com
@@ -8957,6 +8969,7 @@
 0.0.0.0 g3com.video123456.com
 0.0.0.0 api.platform.video123456.com
 0.0.0.0 s.webp2p.video123456.com
+0.0.0.0 ads-secure.videohub.tv
 0.0.0.0 l0-secure.videohub.tv
 0.0.0.0 videoplaza.com
 0.0.0.0 videoplaza.tv
