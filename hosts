@@ -128,7 +128,6 @@
 0.0.0.0 statisticsmaster.aatkit.com
 0.0.0.0 tracking.aatkit.com
 0.0.0.0 zookeeper01.aatkit.com
-0.0.0.0 aatkit.com
 0.0.0.0 rtapi.abbi.io
 0.0.0.0 stats.abbi.io
 0.0.0.0 abnad.net
@@ -192,7 +191,6 @@
 0.0.0.0 www.ad4screen.com
 0.0.0.0 ad4screen.com
 0.0.0.0 ad6media.fr
-0.0.0.0 static.ada.support
 0.0.0.0 ads.adacado.com
 0.0.0.0 cdn.adacado.com
 0.0.0.0 info.adacado.com
@@ -336,7 +334,6 @@
 0.0.0.0 q4mn.adj.st
 0.0.0.0 adj.st
 0.0.0.0 adjuggler.net
-0.0.0.0 app.adjust.com
 0.0.0.0 atom.adjust.com
 0.0.0.0 events.adjust.com
 0.0.0.0 view.adjust.com
@@ -575,7 +572,6 @@
 0.0.0.0 pandoramedia.campaign.adobe.com
 0.0.0.0 sstats.adobe.com
 0.0.0.0 activation.adobedtm.com
-0.0.0.0 assets.adobedtm.com
 0.0.0.0 sslproxy-prod.adobedtm.com
 0.0.0.0 adonly.com
 0.0.0.0 adorika.net
@@ -1771,7 +1767,6 @@
 0.0.0.0 www.apptimize.com
 0.0.0.0 www2.apptimize.com
 0.0.0.0 www3.apptimize.com
-0.0.0.0 apptimize.com
 0.0.0.0 applift-a.apptornado.com
 0.0.0.0 applift-b.apptornado.com
 0.0.0.0 apptornado.com
@@ -2113,7 +2108,6 @@
 0.0.0.0 smetrics.bestbuy.com
 0.0.0.0 c.betrad.com
 0.0.0.0 cdn.betrad.com
-0.0.0.0 l.betrad.com
 0.0.0.0 www.betrad.com
 0.0.0.0 betrad.com
 0.0.0.0 stats.betradar.com
@@ -2715,7 +2709,6 @@
 0.0.0.0 reports.crashlytics.com
 0.0.0.0 settings.crashlytics.com
 0.0.0.0 try.crashlytics.com
-0.0.0.0 crashlytics.com
 0.0.0.0 craveandlamb.com
 0.0.0.0 script.crazyegg.com
 0.0.0.0 crazypopups.com
@@ -3144,7 +3137,6 @@
 0.0.0.0 earth-111.com
 0.0.0.0 easyads.bg
 0.0.0.0 easydownloadnow.com
-0.0.0.0 api.ebay-kleinanzeigen.de
 0.0.0.0 ebz.io
 0.0.0.0 dmp.eclick.vn
 0.0.0.0 e.eclick.vn
@@ -3259,7 +3251,6 @@
 0.0.0.0 www.everestjs.net
 0.0.0.0 everestjs.net
 0.0.0.0 everesttech.net
-0.0.0.0 c.evidon.com
 0.0.0.0 info.evidon.com
 0.0.0.0 consumer.exacttargetapis.com
 0.0.0.0 exacttargetapis.com
@@ -3321,7 +3312,6 @@
 0.0.0.0 eyeota.net
 0.0.0.0 track.eyeviewads.com
 0.0.0.0 m.ezjoygame.com
-0.0.0.0 g.ezoic.net
 0.0.0.0 go.ezoic.net
 0.0.0.0 ezoic.net
 0.0.0.0 eztexting.com
@@ -3337,7 +3327,6 @@
 0.0.0.0 fabric.io
 0.0.0.0 an.facebook.com
 0.0.0.0 error.facebook.com
-0.0.0.0 pixel.facebook.com
 0.0.0.0 api.factual.com
 0.0.0.0 fam-ad.com
 0.0.0.0 fancrew.jp
@@ -3345,7 +3334,6 @@
 0.0.0.0 sentry.fastboot.mobi
 0.0.0.0 fastlane.tools
 0.0.0.0 d2.shared.global.fastly.net
-0.0.0.0 brightcove.map.fastly.net
 0.0.0.0 f.ssl.fastly.net
 0.0.0.0 914.global.ssl.fastly.net
 0.0.0.0 tapdaq-adverts.global.ssl.fastly.net
@@ -3399,7 +3387,6 @@
 0.0.0.0 auth-canary.flurry.com
 0.0.0.0 canary.flurry.com
 0.0.0.0 canary-x.flurry.com
-0.0.0.0 cdn.flurry.com
 0.0.0.0 data.flurry.com
 0.0.0.0 explorer-staging.flurry.com
 0.0.0.0 gw.flurry.com
@@ -3765,8 +3752,6 @@
 0.0.0.0 goodadvert.ru
 0.0.0.0 ads.google.com
 0.0.0.0 adservice.google.com
-0.0.0.0 clients1.google.com
-0.0.0.0 gstaticadssl.l.google.com
 0.0.0.0 pagead.l.google.com
 0.0.0.0 pagead-googlehosted.l.google.com
 0.0.0.0 pagead-tpc.l.google.com
@@ -3774,7 +3759,6 @@
 0.0.0.0 s0-2mdn-net.l.google.com
 0.0.0.0 ssl-google-analytics.l.google.com
 0.0.0.0 www-googletagmanager.l.google.com
-0.0.0.0 suggestqueries.google.com
 0.0.0.0 video-stats.video.google.com
 0.0.0.0 adservice.google.de
 0.0.0.0 id.google.de
@@ -3793,7 +3777,6 @@
 0.0.0.0 static.googleadsserving.cn
 0.0.0.0 clientmetrics-pa.googleapis.com
 0.0.0.0 ad-creatives-public.commondatastorage.googleapis.com
-0.0.0.0 imasdk.googleapis.com
 0.0.0.0 www.googlecommerce.com
 0.0.0.0 badad.googleplex.com
 0.0.0.0 ade.googlesyndication.com
@@ -3841,7 +3824,6 @@
 0.0.0.0 grt03.com
 0.0.0.0 duapps-photos-adv.gshifen.com
 0.0.0.0 gsmtop.net
-0.0.0.0 csi.gstatic.com
 0.0.0.0 www1.gto-media.com
 0.0.0.0 gtop.ro
 0.0.0.0 gtsads.com
@@ -3983,7 +3965,6 @@
 0.0.0.0 i2ad.jp
 0.0.0.0 i2i.jp
 0.0.0.0 geoinfo.i2w.io
-0.0.0.0 tracking.i2w.io
 0.0.0.0 tracking-thirdparty.i2w.io
 0.0.0.0 iadnet.com
 0.0.0.0 iamediaserve.com
@@ -4009,7 +3990,6 @@
 0.0.0.0 idot.cz
 0.0.0.0 server.idreams.pl
 0.0.0.0 idregie.com
-0.0.0.0 mpsnare.iesnare.com
 0.0.0.0 wdpbeta.iesnare.com
 0.0.0.0 www.iesnare.com
 0.0.0.0 api.newad.ifeng.com
@@ -4289,8 +4269,6 @@
 0.0.0.0 investingapp.net
 0.0.0.0 investingchannel.com
 0.0.0.0 ads.ioam.de
-0.0.0.0 config.ioam.de
-0.0.0.0 de.ioam.de
 0.0.0.0 irqs.ioam.de
 0.0.0.0 mqs.ioam.de
 0.0.0.0 panel.ioam.de
@@ -4383,7 +4361,6 @@
 0.0.0.0 bmedia.justservingfiles.net
 0.0.0.0 justwebads.com
 0.0.0.0 static.jvc.gg
-0.0.0.0 p.jwpcdn.com
 0.0.0.0 entitlements.jwplayer.com
 0.0.0.0 i.n.jwpltx.com
 0.0.0.0 s.n.jwpltx.com
@@ -4633,7 +4610,6 @@
 0.0.0.0 cms.lfstmedia.com
 0.0.0.0 lgse.com
 0.0.0.0 lhzbdvm.com
-0.0.0.0 licensebuttons.net
 0.0.0.0 my.lifestreet.com
 0.0.0.0 swift.lifestreet.com
 0.0.0.0 www.lifestreet.com
@@ -4646,7 +4622,6 @@
 0.0.0.0 cdn.liftoff.io
 0.0.0.0 impression-east.liftoff.io
 0.0.0.0 impression-europe.liftoff.io
-0.0.0.0 liftoff.io
 0.0.0.0 a.ligatus.com
 0.0.0.0 a-ssl.ligatus.com
 0.0.0.0 analysis.ligatus.com
@@ -4788,7 +4763,6 @@
 0.0.0.0 logs-01.loggly.com
 0.0.0.0 tail.loggly.com
 0.0.0.0 www.loggly.com
-0.0.0.0 logrocket.com
 0.0.0.0 analytics.logsss.com
 0.0.0.0 dsp.lomark.cn
 0.0.0.0 loopme.biz
@@ -4854,8 +4828,6 @@
 0.0.0.0 m.mansion66.com
 0.0.0.0 www.mansion66.com
 0.0.0.0 mansion66.com
-0.0.0.0 api.mapbox.com
-0.0.0.0 events.mapbox.com
 0.0.0.0 a.tiles.mapbox.com
 0.0.0.0 api.tiles.mapbox.com
 0.0.0.0 maplefarmmedia.com
@@ -5155,11 +5127,7 @@
 0.0.0.0 mgid.com
 0.0.0.0 adserver.mgsex.com
 0.0.0.0 ad.mi.com
-0.0.0.0 f1.g.mi.com
-0.0.0.0 t1.g.mi.com
-0.0.0.0 c.id.mi.com
 0.0.0.0 api.io.mi.com
-0.0.0.0 resolver.gslb.mi-idc.com
 0.0.0.0 miaozhen.com
 0.0.0.0 miarroba.com
 0.0.0.0 ad.mibet.com
@@ -5203,11 +5171,8 @@
 0.0.0.0 miscopy.com
 0.0.0.0 misterbell.com
 0.0.0.0 r.browser.miui.com
-0.0.0.0 api.comm.miui.com
 0.0.0.0 tracking.intl.miui.com
-0.0.0.0 connect.rom.miui.com
 0.0.0.0 adv.sec.miui.com
-0.0.0.0 api.sec.miui.com
 0.0.0.0 logupdate.avlyun.sec.miui.com
 0.0.0.0 auth.be.sec.miui.com
 0.0.0.0 data.sec.miui.com
@@ -5215,11 +5180,8 @@
 0.0.0.0 cc.sys.miui.com
 0.0.0.0 ccc.sys.miui.com
 0.0.0.0 geofence.sys.miui.com
-0.0.0.0 metok.sys.miui.com
 0.0.0.0 fcanr.tracking.miui.com
 0.0.0.0 tracking.miui.com
-0.0.0.0 update.miui.com
-0.0.0.0 api.vip.miui.com
 0.0.0.0 miva.com
 0.0.0.0 m.mixadvert.com
 0.0.0.0 mixadvert.com
@@ -5966,7 +5928,6 @@
 0.0.0.0 jssdkcdns.mparticle.com
 0.0.0.0 jssdks.mparticle.com
 0.0.0.0 nativesdks.mparticle.com
-0.0.0.0 mparticle.com
 0.0.0.0 mpire.com
 0.0.0.0 mpnrs.com
 0.0.0.0 mprezchc.com
@@ -6022,7 +5983,6 @@
 0.0.0.0 api.muneris.io
 0.0.0.0 ad.mwork.vn
 0.0.0.0 adv.mxmcdn.net
-0.0.0.0 cdn.mxpnl.com
 0.0.0.0 cdn4.mxpnl.com
 0.0.0.0 images.mxpnl.com
 0.0.0.0 mxpnl.com
@@ -6099,7 +6059,6 @@
 0.0.0.0 netflame.cc
 0.0.0.0 beacon.netflix.com
 0.0.0.0 beacon.geo.netflix.com
-0.0.0.0 ichnaea.netflix.com
 0.0.0.0 nmtracking.netflix.com
 0.0.0.0 presentationtracking.netflix.com
 0.0.0.0 sdkapi.netmera.com
@@ -6136,7 +6095,6 @@
 0.0.0.0 get.newrelic.com
 0.0.0.0 insights-collector.newrelic.com
 0.0.0.0 ir.newrelic.com
-0.0.0.0 js-agent.newrelic.com
 0.0.0.0 mobile-collector.newrelic.com
 0.0.0.0 mobile-crash.newrelic.com
 0.0.0.0 mobile-crash-origin.newrelic.com
@@ -6323,7 +6281,6 @@
 0.0.0.0 onewaylinkexchange.net
 0.0.0.0 ongkidcasarv.com
 0.0.0.0 online-dn.com
-0.0.0.0 h-sdk.online-metrix.net
 0.0.0.0 onmobile.com
 0.0.0.0 cdn.onscroll.com
 0.0.0.0 impl.onscroll.com
@@ -6832,11 +6789,9 @@
 0.0.0.0 stable.app.optimizely.com
 0.0.0.0 app.optimizely.com
 0.0.0.0 oui.cdn.optimizely.com
-0.0.0.0 cdn.optimizely.com
 0.0.0.0 cdn-edgecast.optimizely.com
 0.0.0.0 cdn-pci.optimizely.com
 0.0.0.0 cdn-s-optional.optimizely.com
-0.0.0.0 cdn3.optimizely.com
 0.0.0.0 build.client.optimizely.com
 0.0.0.0 errors.client.optimizely.com
 0.0.0.0 client-error-log.dz.optimizely.com
@@ -7159,7 +7114,6 @@
 0.0.0.0 pushcrew.com
 0.0.0.0 clientcdn.pushengage.com
 0.0.0.0 songdew.pushengage.com
-0.0.0.0 ws.pusherapp.com
 0.0.0.0 go.pushnative.com
 0.0.0.0 pushnative.com
 0.0.0.0 api.pushspring.com
@@ -7176,7 +7130,6 @@
 0.0.0.0 stat.pushwoosh.com
 0.0.0.0 status.pushwoosh.com
 0.0.0.0 www.pushwoosh.com
-0.0.0.0 pushwoosh.com
 0.0.0.0 sube.puwangkj.com
 0.0.0.0 dicks-sporting-goods.pxf.io
 0.0.0.0 web.stagingf8.pycogroup.com
@@ -7516,7 +7469,6 @@
 0.0.0.0 cdn.segment.com
 0.0.0.0 cdn-settings.segment.com
 0.0.0.0 mobile-service.segment.com
-0.0.0.0 segment.com
 0.0.0.0 api.segment.io
 0.0.0.0 browsermetrix.segrocers.com
 0.0.0.0 sekindo.com
@@ -7730,7 +7682,6 @@
 0.0.0.0 smartadserver.ru
 0.0.0.0 smartclip.net
 0.0.0.0 smartdevicemedia.com
-0.0.0.0 smartlook.com
 0.0.0.0 smartmad.com
 0.0.0.0 cdn.smartnews-ads.com
 0.0.0.0 conf.smartnews-ads.com
@@ -8632,7 +8583,6 @@
 0.0.0.0 ads-bidder-api.twitter.com
 0.0.0.0 analytics.twitter.com
 0.0.0.0 scribe.twitter.com
-0.0.0.0 cdn.syndication.twitter.com
 0.0.0.0 cdn-eb.syndication.twitter.com
 0.0.0.0 syndication.twitter.com
 0.0.0.0 widget.twojapogoda.pl
@@ -8820,14 +8770,12 @@
 0.0.0.0 www.urbanairship.com
 0.0.0.0 urbanairship.com
 0.0.0.0 urbanityadnetwork.com
-0.0.0.0 api.usebutton.com
 0.0.0.0 web.usebutton.com
 0.0.0.0 usekahuna.com
 0.0.0.0 lb.usemaxserver.de
 0.0.0.0 userator.ru
 0.0.0.0 usergrid.com
 0.0.0.0 by.uservoice.com
-0.0.0.0 widget.uservoice.com
 0.0.0.0 uservoice.com
 0.0.0.0 utarget.ru
 0.0.0.0 traffic.uusee.com
@@ -8923,10 +8871,8 @@
 0.0.0.0 ns6.viglink.com
 0.0.0.0 optimize.viglink.com
 0.0.0.0 publishers.viglink.com
-0.0.0.0 redirect.viglink.com
 0.0.0.0 rest.viglink.com
 0.0.0.0 www.viglink.com
-0.0.0.0 viglink.com
 0.0.0.0 api.vigo.ru
 0.0.0.0 static.vilynx.com
 0.0.0.0 vindicosuite.com
@@ -9115,8 +9061,6 @@
 0.0.0.0 pg.xdrig.com
 0.0.0.0 xdrig.com
 0.0.0.0 adx.xemvtv.net
-0.0.0.0 api.account.xiaomi.com
-0.0.0.0 sgpac.account.xiaomi.com
 0.0.0.0 api.ad.xiaomi.com
 0.0.0.0 cdn.ad.xiaomi.com
 0.0.0.0 e.ad.xiaomi.com
@@ -9128,7 +9072,6 @@
 0.0.0.0 api.admob.xiaomi.com
 0.0.0.0 ime.api.xiaomi.com
 0.0.0.0 mibi.api.xiaomi.com
-0.0.0.0 o2o.api.xiaomi.com
 0.0.0.0 shoes.app-xae.xiaomi.com
 0.0.0.0 api.d.xiaomi.com
 0.0.0.0 d.xiaomi.com
@@ -9137,11 +9080,9 @@
 0.0.0.0 iosdl.game.xiaomi.com
 0.0.0.0 mitunes.game.xiaomi.com
 0.0.0.0 notice.game.xiaomi.com
-0.0.0.0 ppurifier.game.xiaomi.com
 0.0.0.0 static.game.xiaomi.com
 0.0.0.0 voip.game.xiaomi.com
 0.0.0.0 wap.game.xiaomi.com
-0.0.0.0 game.xiaomi.com
 0.0.0.0 secode2.hd.xiaomi.com
 0.0.0.0 hd.xiaomi.com
 0.0.0.0 heyue.xiaomi.com
@@ -9158,16 +9099,10 @@
 0.0.0.0 fe02.lg.xiaomi.com
 0.0.0.0 fe05.lg.xiaomi.com
 0.0.0.0 hd02.lg.xiaomi.com
-0.0.0.0 file.market.xiaomi.com
 0.0.0.0 thm.market.xiaomi.com
-0.0.0.0 market.xiaomi.com
 0.0.0.0 hk.mibi.xiaomi.com
 0.0.0.0 static.mibi.xiaomi.com
 0.0.0.0 mibi.xiaomi.com
-0.0.0.0 app.migc.xiaomi.com
-0.0.0.0 mis.migc.xiaomi.com
-0.0.0.0 abtest.mistat.xiaomi.com
-0.0.0.0 data.mistat.xiaomi.com
 0.0.0.0 appstore.pandora.xiaomi.com
 0.0.0.0 assistant.pandora.xiaomi.com
 0.0.0.0 bss.pandora.xiaomi.com
@@ -9182,7 +9117,6 @@
 0.0.0.0 mishop.pandora.xiaomi.com
 0.0.0.0 starfish.pandora.xiaomi.com
 0.0.0.0 stat.pandora.xiaomi.com
-0.0.0.0 wallpaper.pandora.xiaomi.com
 0.0.0.0 weather.pandora.xiaomi.com
 0.0.0.0 qiye.xiaomi.com
 0.0.0.0 api.miui.security.xiaomi.com
@@ -9194,18 +9128,6 @@
 0.0.0.0 file.xmpush.xiaomi.com
 0.0.0.0 register.xmpush.xiaomi.com
 0.0.0.0 sandbox.xmpush.xiaomi.com
-0.0.0.0 api.chat.xiaomi.net
-0.0.0.0 app.chat.xiaomi.net
-0.0.0.0 api.device.xiaomi.net
-0.0.0.0 api.micloud.xiaomi.net
-0.0.0.0 contactapi.micloud.xiaomi.net
-0.0.0.0 micardapi.micloud.xiaomi.net
-0.0.0.0 pdc.micloud.xiaomi.net
-0.0.0.0 phonecallapi.micloud.xiaomi.net
-0.0.0.0 sfsapi.micloud.xiaomi.net
-0.0.0.0 statusapi.micloud.xiaomi.net
-0.0.0.0 resolver.msg.xiaomi.net
-0.0.0.0 global.search.xiaomi.net
 0.0.0.0 opt.ximad.com
 0.0.0.0 ximad.com
 0.0.0.0 ad.ximalaya.com
@@ -9367,7 +9289,6 @@
 0.0.0.0 zcoup.com
 0.0.0.0 gurgle.zdbb.net
 0.0.0.0 ns.zdbb.net
-0.0.0.0 zdbb.net
 0.0.0.0 org.zaloapp.ads.zdn.vn
 0.0.0.0 zplayer-trk.zdn.vn
 0.0.0.0 api-logsink-prod.zedge.io
