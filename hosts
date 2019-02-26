@@ -29,7 +29,6 @@
 0.0.0.0 challenge.360in.com
 0.0.0.0 dispatcher.360in.com
 0.0.0.0 effectapi.360in.com
-0.0.0.0 exchange.360in.com
 0.0.0.0 exp.360in.com
 0.0.0.0 hotpot.360in.com
 0.0.0.0 i.360in.com
@@ -324,7 +323,6 @@
 0.0.0.0 redis.adjust.io
 0.0.0.0 rsa.adjust.io
 0.0.0.0 stage.adjust.io
-0.0.0.0 staging.adjust.io
 0.0.0.0 adjust.io
 0.0.0.0 adn.adjustnetwork.com
 0.0.0.0 forward.adjustnetwork.com
@@ -359,7 +357,6 @@
 0.0.0.0 g.admedia.com
 0.0.0.0 inline.admedia.com
 0.0.0.0 m.admedia.com
-0.0.0.0 members.admedia.com
 0.0.0.0 pixel.admedia.com
 0.0.0.0 v.admedia.com
 0.0.0.0 vslider.admedia.com
@@ -754,7 +751,6 @@
 0.0.0.0 delivery-s3.adswizz.com
 0.0.0.0 synchroscript.deliveryengine.adswizz.com
 0.0.0.0 audiomax.devel.adswizz.com
-0.0.0.0 exchange.adswizz.com
 0.0.0.0 nexus.adswizz.com
 0.0.0.0 pixelg.adswizz.com
 0.0.0.0 randi.adswizz.com
@@ -842,7 +838,6 @@
 0.0.0.0 adtotal.pl
 0.0.0.0 adtraff.ru
 0.0.0.0 cdn.adtrue.com
-0.0.0.0 exchange.adtrue.com
 0.0.0.0 publishers.adtrue.com
 0.0.0.0 track.adtrue.com
 0.0.0.0 adtrue.com
@@ -954,7 +949,6 @@
 0.0.0.0 axora.affise.com
 0.0.0.0 bcnmonetize.affise.com
 0.0.0.0 berlinmediatrade.affise.com
-0.0.0.0 billing.affise.com
 0.0.0.0 carrierapptraffic.affise.com
 0.0.0.0 chessmob.affise.com
 0.0.0.0 clickonik.affise.com
@@ -975,7 +969,6 @@
 0.0.0.0 fillymedia.affise.com
 0.0.0.0 finaff.affise.com
 0.0.0.0 finline.affise.com
-0.0.0.0 gitlab.affise.com
 0.0.0.0 go-rilla.affise.com
 0.0.0.0 harrenmedia.affise.com
 0.0.0.0 iqoption.affise.com
@@ -1286,7 +1279,6 @@
 0.0.0.0 info.amplitude.com
 0.0.0.0 meetings.amplitude.com
 0.0.0.0 promo.amplitude.com
-0.0.0.0 staging.amplitude.com
 0.0.0.0 static.amplitude.com
 0.0.0.0 status.amplitude.com
 0.0.0.0 3p.ampproject.net
@@ -1371,7 +1363,6 @@
 0.0.0.0 app-measurement.com
 0.0.0.0 app-promo.com
 0.0.0.0 cdn-api.appadhoc.com
-0.0.0.0 console.appadhoc.com
 0.0.0.0 count.appadhoc.com
 0.0.0.0 editor.appadhoc.com
 0.0.0.0 experiment.appadhoc.com
@@ -1384,7 +1375,6 @@
 0.0.0.0 appbaqend.com
 0.0.0.0 rtb.appbid.com
 0.0.0.0 ci.appboy.com
-0.0.0.0 confluence.appboy.com
 0.0.0.0 crypt2.appboy.com
 0.0.0.0 grafana.appboy.com
 0.0.0.0 2.iad.appboy.com
@@ -1926,7 +1916,6 @@
 0.0.0.0 ng001.batmobi.net
 0.0.0.0 oscdn.batmobi.net
 0.0.0.0 ploy.batmobi.net
-0.0.0.0 portal.batmobi.net
 0.0.0.0 proxy.batmobi.net
 0.0.0.0 pushapi.batmobi.net
 0.0.0.0 search.batmobi.net
@@ -2034,7 +2023,6 @@
 0.0.0.0 ai.branch.io
 0.0.0.0 api.branch.io
 0.0.0.0 api2.branch.io
-0.0.0.0 vpn.aws.branch.io
 0.0.0.0 cdn.branch.io
 0.0.0.0 events.branch.io
 0.0.0.0 gdpr.branch.io
@@ -2250,7 +2238,6 @@
 0.0.0.0 native.cli.bz
 0.0.0.0 aorta.clickagy.com
 0.0.0.0 i.clickagy.com
-0.0.0.0 portal.clickagy.com
 0.0.0.0 clickfuse.com
 0.0.0.0 subat.clickhubs.com
 0.0.0.0 subtrack.clickhubs.com
@@ -2702,7 +2689,6 @@
 0.0.0.0 cdn.demdex.net
 0.0.0.0 crackle.demdex.net
 0.0.0.0 dickssportinggoods.demdex.net
-0.0.0.0 dpm.demdex.net
 0.0.0.0 fandangollc.demdex.net
 0.0.0.0 foxnet.demdex.net
 0.0.0.0 foxnews.demdex.net
@@ -3109,8 +3095,6 @@
 0.0.0.0 publisher-reporting-api.fyber.com
 0.0.0.0 reference.fyber.com
 0.0.0.0 rewarded-video.fyber.com
-0.0.0.0 wiki.rtb-demand.fyber.com
-0.0.0.0 wiki.rtb-supply.fyber.com
 0.0.0.0 rtbcc.fyber.com
 0.0.0.0 sdk-config.fyber.com
 0.0.0.0 service.fyber.com
@@ -3685,7 +3669,6 @@
 0.0.0.0 dl.inmobi.com
 0.0.0.0 edgy.inmobi.com
 0.0.0.0 edgy-china-cdn-sproutbuilder.inmobi.com
-0.0.0.0 exchange.inmobi.com
 0.0.0.0 analytics.glance.inmobi.com
 0.0.0.0 api.glance.inmobi.com
 0.0.0.0 partner.glance.inmobi.com
@@ -3700,7 +3683,6 @@
 0.0.0.0 japan.inmobi.com
 0.0.0.0 korea.inmobi.com
 0.0.0.0 mediaplanner.inmobi.com
-0.0.0.0 optout.inmobi.com
 0.0.0.0 perfex.inmobi.com
 0.0.0.0 pso-imbot.inmobi.com
 0.0.0.0 carpet.pulse.inmobi.com
@@ -3810,7 +3792,6 @@
 0.0.0.0 ads.ioam.de
 0.0.0.0 irqs.ioam.de
 0.0.0.0 mqs.ioam.de
-0.0.0.0 panel.ioam.de
 0.0.0.0 qs.ioam.de
 0.0.0.0 script.ioam.de
 0.0.0.0 xml.ioam.de
@@ -4011,7 +3992,6 @@
 0.0.0.0 libs.lavanetwork.net
 0.0.0.0 pub.lavanetwork.net
 0.0.0.0 slv1.lavanetwork.net
-0.0.0.0 test.lavanetwork.net
 0.0.0.0 lavanetwork.net
 0.0.0.0 wc-tracking.lavasoft.com
 0.0.0.0 events.lbesecapi.com
@@ -4082,13 +4062,11 @@
 0.0.0.0 m-plugin.scloud.letv.com
 0.0.0.0 m-upgrade.scloud.letv.com
 0.0.0.0 m-xpage.scloud.letv.com
-0.0.0.0 mail.scloud.letv.com
 0.0.0.0 music.scloud.letv.com
 0.0.0.0 note.scloud.letv.com
 0.0.0.0 ota.scloud.letv.com
 0.0.0.0 pan.scloud.letv.com
 0.0.0.0 photo.scloud.letv.com
-0.0.0.0 remote.scloud.letv.com
 0.0.0.0 s3proxy.scloud.letv.com
 0.0.0.0 setting.scloud.letv.com
 0.0.0.0 share.scloud.letv.com
@@ -4099,7 +4077,6 @@
 0.0.0.0 xsquare.scloud.letv.com
 0.0.0.0 yuanxian.scloud.letv.com
 0.0.0.0 stat.letv.com
-0.0.0.0 test.tvapi.letv.com
 0.0.0.0 s.webp2p.letv.com
 0.0.0.0 yuanxian.letv.com
 0.0.0.0 api.zhifu.letv.com
@@ -4162,7 +4139,6 @@
 0.0.0.0 banner.linksynergy.com
 0.0.0.0 cli.linksynergy.com
 0.0.0.0 click.linksynergy.com
-0.0.0.0 ftp.linksynergy.com
 0.0.0.0 ads.rd.linksynergy.com
 0.0.0.0 amp.rd.linksynergy.com
 0.0.0.0 ss.linksynergy.com
@@ -4277,7 +4253,6 @@
 0.0.0.0 mallmotion.com
 0.0.0.0 telemetry.malwarebytes.com
 0.0.0.0 cdn.manage.com
-0.0.0.0 manage.com
 0.0.0.0 adsapi.manhuaren.com
 0.0.0.0 euadsapi.manhuaren.com
 0.0.0.0 maplefarmmedia.com
@@ -4546,7 +4521,6 @@
 0.0.0.0 dating.mgid.com
 0.0.0.0 dmp.mgid.com
 0.0.0.0 dsp.mgid.com
-0.0.0.0 gitlab.mgid.com
 0.0.0.0 img.mgid.com
 0.0.0.0 imgg.mgid.com
 0.0.0.0 imgg-cdn.mgid.com
@@ -4621,9 +4595,6 @@
 0.0.0.0 api.mixpanel.com
 0.0.0.0 decide.mixpanel.com
 0.0.0.0 switchboard.mixpanel.com
-0.0.0.0 002-slq-470.mktoresp.com
-0.0.0.0 004-btr-463.mktoresp.com
-0.0.0.0 009-yli-241.mktoresp.com
 0.0.0.0 mmaglobal.com
 0.0.0.0 mtag.mman.kr
 0.0.0.0 mmccint.com
@@ -6100,7 +6071,6 @@
 0.0.0.0 pps-log.op-mobile.opera.com
 0.0.0.0 opinionstage.com
 0.0.0.0 opt8.co
-0.0.0.0 get.optad360.io
 0.0.0.0 optad360.io
 0.0.0.0 imp.optaim.com
 0.0.0.0 optaim.com
@@ -6220,7 +6190,6 @@
 0.0.0.0 mdn3origin.phluantmobile.net
 0.0.0.0 phunware.com
 0.0.0.0 publisher.piano.io
-0.0.0.0 test.piano.io
 0.0.0.0 piano.io
 0.0.0.0 analytics.picsart.com
 0.0.0.0 cs8.pikabu.ru
@@ -6377,7 +6346,6 @@
 0.0.0.0 bid.pubmatic.com
 0.0.0.0 gads.pubmatic.com
 0.0.0.0 gads22000.pubmatic.com
-0.0.0.0 git.pubmatic.com
 0.0.0.0 hbopenbid.pubmatic.com
 0.0.0.0 image2.pubmatic.com
 0.0.0.0 image5.pubmatic.com
@@ -6960,7 +6928,6 @@
 0.0.0.0 im2.smartadserver.com
 0.0.0.0 itx5.smartadserver.com
 0.0.0.0 itx5-publicidad.smartadserver.com
-0.0.0.0 jobs.smartadserver.com
 0.0.0.0 preview.smartadserver.com
 0.0.0.0 rtb-csync.smartadserver.com
 0.0.0.0 tmk.smartadserver.com
@@ -7150,7 +7117,6 @@
 0.0.0.0 sumome.com
 0.0.0.0 trk.superads.cn
 0.0.0.0 ads.superawesome.tv
-0.0.0.0 exchange.superfastmediation.com
 0.0.0.0 monitor.superfastmediation.com
 0.0.0.0 track.superfastmediation.com
 0.0.0.0 logs.supersonic.com
@@ -7163,7 +7129,6 @@
 0.0.0.0 custom2.supersonicads.com
 0.0.0.0 delivery.supersonicads.com
 0.0.0.0 dev8.supersonicads.com
-0.0.0.0 documents.supersonicads.com
 0.0.0.0 init.supersonicads.com
 0.0.0.0 is-gateway.supersonicads.com
 0.0.0.0 jsd.supersonicads.com
@@ -7447,10 +7412,8 @@
 0.0.0.0 api.taboola.com
 0.0.0.0 api-s2s.taboola.com
 0.0.0.0 backstage.taboola.com
-0.0.0.0 billing.taboola.com
 0.0.0.0 branding.taboola.com
 0.0.0.0 c2.taboola.com
-0.0.0.0 careers.taboola.com
 0.0.0.0 cdn.taboola.com
 0.0.0.0 clicknj.taboola.com
 0.0.0.0 consult.taboola.com
@@ -7583,7 +7546,6 @@
 0.0.0.0 ws33.tapjoyads.com
 0.0.0.0 ws4.tapjoyads.com
 0.0.0.0 tapjoyads.com
-0.0.0.0 academy.taplytics.com
 0.0.0.0 api.taplytics.com
 0.0.0.0 cdn.taplytics.com
 0.0.0.0 cdn-config.taplytics.com
@@ -7633,7 +7595,6 @@
 0.0.0.0 track.tenjin.io
 0.0.0.0 teracreative.com
 0.0.0.0 terraclicks.com
-0.0.0.0 test.com
 0.0.0.0 ondemand.tf-cdn.net
 0.0.0.0 push.tf-cdn.net
 0.0.0.0 static.tf-cdn.net
@@ -7707,7 +7668,6 @@
 0.0.0.0 todacell.com
 0.0.0.0 todayweather.co
 0.0.0.0 adservice.tohsoft.com
-0.0.0.0 qa.token.ad
 0.0.0.0 token.ad
 0.0.0.0 tonefuse.com
 0.0.0.0 tongqing2015.com
@@ -7802,7 +7762,6 @@
 0.0.0.0 adslot.uc.cn
 0.0.0.0 gj.applog.uc.cn
 0.0.0.0 applog.uc.cn
-0.0.0.0 feedback.uc.cn
 0.0.0.0 gjapplog.uc.cn
 0.0.0.0 gj.track.uc.cn
 0.0.0.0 track.uc.cn
@@ -8192,7 +8151,6 @@
 0.0.0.0 e.ad.xiaomi.com
 0.0.0.0 globalapi.ad.xiaomi.com
 0.0.0.0 sdkconfig.ad.xiaomi.com
-0.0.0.0 test.ad.xiaomi.com
 0.0.0.0 teste.ad.xiaomi.com
 0.0.0.0 zeus.ad.xiaomi.com
 0.0.0.0 api.admob.xiaomi.com
