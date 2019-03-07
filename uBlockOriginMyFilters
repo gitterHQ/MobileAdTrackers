@@ -1,22 +1,14 @@
-*$data
-*$document,third-party
-*$subdocument
 *$font,third-party
-*$inline-font
-*$generichide
 *$media
 *$object
 *$other
-*$popunder,third-party
-*$popup,third-party
-*$stylesheet,third-party
 *$websocket
 *$xmlhttprequest
-www.reddit.com##.onboardingbar.subscribebar.infobar
 
-||fonts.googleapis.com^$important
+@@||*.googlevideo.com/videoplayback$xmlhttprequest,domain=www.youtube.com
+www.bing.com##.b_adBottom.b_ad
+www.reddit.com##.onboardingbar.subscribebar.infobar
 ||*/quantcast-choice/*$important
 ||*/wp-content/plugins/disqus-comment-system/*$important
-@@||*.googlevideo.com/videoplayback$xmlhttprequest,domain=www.youtube.com
 ||*/wordpress/wp-admin/admin-ajax.php?*count*$xmlhttprequest
 ||*/wp-content/plugins/*counter.php$xmlhttprequest
