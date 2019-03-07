@@ -1,17 +1,17 @@
 *$data
 *$document,third-party
-*$subdocument,third-party
+*$subdocument
 *$font,third-party
-*$inline-font,first-party
-*$inline-script,first-party
+*$inline-font
 *$generichide
 *$media
 *$object
 *$other
 *$popunder,third-party
 *$popup,third-party
+*$stylesheet,third-party
 *$websocket
-*$xmlhttprequest,third-party
+*$xmlhttprequest
 www.reddit.com##.onboardingbar.subscribebar.infobar
 
 ||fonts.googleapis.com^$important
