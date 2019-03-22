@@ -4,6 +4,8 @@ Taken from DNS logs, formatted in hostfile format.
 Direct link to list:
 https://raw.githubusercontent.com/jawz101/MobileAdTrackers/master/hosts
 
+**While this list was primarily built based on monitoring Android app activity, probably 99% of these ad networks monetize both iOS and Android apps.  So if you have an iPhone it will catch much of the stuff you don't like.  I did merge lists with AdGuard's mobile ad list at one point so there is some overlap but there are a few hundred that don't show up on any other blocklists out there.
+
 
 Caveat: This will also block game reward systems like Tapjoy (i.e. watch videos and play other games for points)
 
