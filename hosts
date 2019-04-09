@@ -6692,7 +6692,6 @@
 0.0.0.0 pub.dwstatic.com
 0.0.0.0 screenshot.dwstatic.com
 0.0.0.0 tu.dxcnd.cn
-0.0.0.0 cdn.dxomark.com
 0.0.0.0 map.dxpmedia.com
 0.0.0.0 ak.dxsvr.com
 0.0.0.0 fbapi.dxsvr.com
@@ -6798,7 +6797,6 @@
 0.0.0.0 h55na.update.easebar.com
 0.0.0.0 impression.update.easebar.com
 0.0.0.0 unisdk.update.easebar.com
-0.0.0.0 qrcode-service.webapp.easebar.com
 0.0.0.0 ems2.easetech.com
 0.0.0.0 ads.easy-ads.com
 0.0.0.0 easyads.bg
@@ -6819,7 +6817,6 @@
 0.0.0.0 sstats.economist.com
 0.0.0.0 dts.edatatrace.com
 0.0.0.0 bf-esb-internet.edb.com
-0.0.0.0 images-gmi-pmc.edge-generalmills.com
 0.0.0.0 config.edgecaseprod.com
 0.0.0.0 sora.edgecaseprod.com
 0.0.0.0 app.edgecasestatic.com
@@ -7266,9 +7263,6 @@
 0.0.0.0 conf.f-tra.com
 0.0.0.0 log.f-tra.com
 0.0.0.0 a.f4f0b34558fe45a583ca23ba60e7bd44.com
-0.0.0.0 f5v1x3kgv5.com
-0.0.0.0 static.fabet.com
-0.0.0.0 fabet.com
 0.0.0.0 ana-ing.fabric.io
 0.0.0.0 cdn-cf.fabric.io
 0.0.0.0 fastlane-metrics.fabric.io
@@ -7287,8 +7281,6 @@
 0.0.0.0 analytics.farmjournal.com
 0.0.0.0 upd.faronicslabs.com
 0.0.0.0 fastapi.net
-0.0.0.0 cdo.fastbettouchtone.com
-0.0.0.0 two.fastbettouchtone.com
 0.0.0.0 sentry.fastboot.mobi
 0.0.0.0 fastlane.tools
 0.0.0.0 d2.shared.global.fastly.net
@@ -7384,12 +7376,6 @@
 0.0.0.0 free.fckrknbot.com
 0.0.0.0 stats.fcld.me
 0.0.0.0 n.fclick-adnow.com
-0.0.0.0 data.fctablesmedia.com
-0.0.0.0 ca.fd-admin.com
-0.0.0.0 de.fd-admin.com
-0.0.0.0 op.fd-admin.com
-0.0.0.0 bg.fd-api.com
-0.0.0.0 pk.fd-api.com
 0.0.0.0 api-euc.fdcollab.com
 0.0.0.0 fdplttrk.com
 0.0.0.0 ffcdn3.featureforward.com
