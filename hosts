@@ -4562,8 +4562,6 @@
 0.0.0.0 c360-ads.c360dn.com
 0.0.0.0 ct.c3tag.com
 0.0.0.0 ic.c4assets.com
-0.0.0.0 collector-axa.cloud.ca.com
-0.0.0.0 apps.caas.com
 0.0.0.0 assets.cabify.com
 0.0.0.0 mediasource.cabionline.com
 0.0.0.0 api.cablecast.tv
@@ -4571,8 +4569,6 @@
 0.0.0.0 omniture-dc-sec.cadence.com
 0.0.0.0 gameboost.cafe24.com
 0.0.0.0 gbimagecdn.cafe24.com
-0.0.0.0 callfire.com
-0.0.0.0 callloop.com
 0.0.0.0 applog.camera360.com
 0.0.0.0 appres.camera360.com
 0.0.0.0 i.canddi.com
@@ -7330,8 +7326,6 @@
 0.0.0.0 fastmap33.com
 0.0.0.0 cp.fastmesh.com
 0.0.0.0 t.fastrk1.com
-0.0.0.0 apis.fastspring.com
-0.0.0.0 logger.fastspring.com
 0.0.0.0 node.fathomvoice.com
 0.0.0.0 api.favado.com
 0.0.0.0 parse.favado.com
@@ -9378,7 +9372,6 @@
 0.0.0.0 wakabet.idobet.com
 0.0.0.0 checklogic.idocvault.com
 0.0.0.0 game.idoing3d.com
-0.0.0.0 check.idosell.com
 0.0.0.0 idot.cz
 0.0.0.0 id3.idqqimg.com
 0.0.0.0 pub.idqqimg.com
@@ -10657,9 +10650,6 @@
 0.0.0.0 kickstart.jumpcloud.com
 0.0.0.0 camps.jumpforward.com
 0.0.0.0 cdn.jumplead.com
-0.0.0.0 assets.jumpseller.com
-0.0.0.0 cdnx.jumpseller.com
-0.0.0.0 images.jumpseller.com
 0.0.0.0 assets.jumpstartmediavault.com
 0.0.0.0 jumptab.com
 0.0.0.0 log.jumptaps.com
@@ -11495,7 +11485,6 @@
 0.0.0.0 logs.liquidus.net
 0.0.0.0 tracking.listhub.net
 0.0.0.0 api.lithium.com
-0.0.0.0 collector-production.bln.liveintent.com
 0.0.0.0 engine.liveintercept.com
 0.0.0.0 static.liveintercept.com
 0.0.0.0 app.livemarketshoppers.com
@@ -11855,9 +11844,6 @@
 0.0.0.0 api.madkudu.com
 0.0.0.0 cdn.madkudu.com
 0.0.0.0 api.madlipz.com
-0.0.0.0 cascade.madmimi.com
-0.0.0.0 sable.madmimi.com
-0.0.0.0 madmini.com
 0.0.0.0 sysco-appstore2.madmobile.com
 0.0.0.0 sysco-cdn.madmobile.com
 0.0.0.0 madnet.ru
@@ -11902,14 +11888,11 @@
 0.0.0.0 csm.magnetintell.com
 0.0.0.0 gmat.magoosh.com
 0.0.0.0 gre.magoosh.com
-0.0.0.0 apps.maherterminals.com
 0.0.0.0 chrome.mahiba.com
 0.0.0.0 aota.maihehd.com
 0.0.0.0 collector.maihehd.com
 0.0.0.0 delivery.maihehd.com
 0.0.0.0 ad.mail.ru
-0.0.0.0 mailchi.mp
-0.0.0.0 downloads.mailchimp.com
 0.0.0.0 analytics.mailmunch.co
 0.0.0.0 mainadv.com
 0.0.0.0 maist.jp
@@ -14048,7 +14031,6 @@
 0.0.0.0 cdn.motus.com
 0.0.0.0 mobileapi.motus.com
 0.0.0.0 token.motus.com
-0.0.0.0 projects.movableink.com
 0.0.0.0 app.movablescience.com
 0.0.0.0 movad.de
 0.0.0.0 track.movad.net
@@ -14633,7 +14615,6 @@
 0.0.0.0 eu-cloudapi-prod.aws-w.nielsencsp.com
 0.0.0.0 eu-uaid-linkage-prod.aws-w.nielsencsp.com
 0.0.0.0 uaid-linkage.aws-w.nielsencsp.com
-0.0.0.0 img1.niftyimages.com
 0.0.0.0 stmx002.nightowldvr.com
 0.0.0.0 a.niholaev.com
 0.0.0.0 barracuda-01.nikonet.com
@@ -14834,7 +14815,6 @@
 0.0.0.0 assets.ofs.com
 0.0.0.0 ogrforum.ogaugerr.com
 0.0.0.0 vadim.ogievetsky.com
-0.0.0.0 secure.ogone.com
 0.0.0.0 c3cdn.ml.youngjoygame.com.global.ogslb.com
 0.0.0.0 loader.ogstats.com
 0.0.0.0 ogury.com
@@ -17371,7 +17351,6 @@
 0.0.0.0 analytics.sem-track.com
 0.0.0.0 tracking.sembox.it
 0.0.0.0 senddroid.com
-0.0.0.0 events.sendicate.net
 0.0.0.0 sendmepixel.com
 0.0.0.0 track.sendo.vn
 0.0.0.0 android-quinoa-config-prod.sense360eng.com
@@ -18107,7 +18086,6 @@
 0.0.0.0 sdk-vidmatic.streamrail.net
 0.0.0.0 ssp.streamrail.net
 0.0.0.0 vast.streamrail.net
-0.0.0.0 stats.streamsend.com
 0.0.0.0 api.strem.io
 0.0.0.0 strikead.com
 0.0.0.0 strikeiron.com
@@ -19633,7 +19611,6 @@
 0.0.0.0 bbs.vernee.cc
 0.0.0.0 cookiesync.vertamedia.com
 0.0.0.0 s.vertamedia.com
-0.0.0.0 marketingsuite.verticalresponse.com
 0.0.0.0 ads.verticalscope.com
 0.0.0.0 api.verticalscope.com
 0.0.0.0 panelist-api.vertoanalytics.com
