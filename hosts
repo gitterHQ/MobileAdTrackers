@@ -8094,7 +8094,6 @@
 0.0.0.0 geo.geo-svc.com
 0.0.0.0 mobile.ib.sin1.geoadnxs.com
 0.0.0.0 ib.sin1.geoadnxs.com
-0.0.0.0 apps.geocortex.com
 0.0.0.0 g.geogslb.com
 0.0.0.0 service.geolizr.com
 0.0.0.0 geoplugin.net
@@ -8494,9 +8493,6 @@
 0.0.0.0 bo.goadservices.com
 0.0.0.0 i.goadservices.com
 0.0.0.0 goadservices.com
-0.0.0.0 brecklmc.goalexandria.com
-0.0.0.0 breckmmc.goalexandria.com
-0.0.0.0 breckumc.goalexandria.com
 0.0.0.0 eehn.goalked.com
 0.0.0.0 r3rf.goalked.com
 0.0.0.0 appupdate.goappbar.com
@@ -8624,7 +8620,6 @@
 0.0.0.0 senate.granicusops.com
 0.0.0.0 cdn.granify.com
 0.0.0.0 matching.granify.com
-0.0.0.0 i.graphicmama.com
 0.0.0.0 s.graphiq.com
 0.0.0.0 w.graphiq.com
 0.0.0.0 gredinatib.info
@@ -8654,8 +8649,6 @@
 0.0.0.0 c.groovehq.com
 0.0.0.0 graphql.groovehq.com
 0.0.0.0 i.groovehq.com
-0.0.0.0 launchpad.groundctl.com
-0.0.0.0 control.grovenetworks.com
 0.0.0.0 server.growatt.com
 0.0.0.0 apihk.growingio.com
 0.0.0.0 assets.growingio.com
