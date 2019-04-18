@@ -1946,8 +1946,6 @@
 0.0.0.0 elb.advanappstore.com
 0.0.0.0 central.advanceddns.com
 0.0.0.0 results.advancedeventsystems.com
-0.0.0.0 cdn2525.advancedpccare.com
-0.0.0.0 cdn.advancedpctools.com
 0.0.0.0 live.advancedverification.com
 0.0.0.0 live-ivr.advancedverification.com
 0.0.0.0 lifeline.advancestuff.com
@@ -2953,8 +2951,6 @@
 0.0.0.0 discoverapps.appia.com
 0.0.0.0 prlds.appia.com
 0.0.0.0 appia.com
-0.0.0.0 assets.appian.com
-0.0.0.0 jnj.appiancloud.com
 0.0.0.0 a.appice.io
 0.0.0.0 track.appicmedia.com
 0.0.0.0 g.appicplay.com
@@ -3037,9 +3033,6 @@
 0.0.0.0 images.applicaster.com
 0.0.0.0 stars.applicaster.com
 0.0.0.0 zapp-client.applicaster.com
-0.0.0.0 iam.appliedcloudservices.com
-0.0.0.0 ve14sdk.appliedonline.net
-0.0.0.0 tam2014.appliedsystems.com
 0.0.0.0 api.applifier.com
 0.0.0.0 impact.applifier.com
 0.0.0.0 level3.applifier.com
@@ -3553,8 +3546,6 @@
 0.0.0.0 world.atinternet.com
 0.0.0.0 analytics-service.us-east-1.prod.public.atl-paas.net
 0.0.0.0 metadata.atlanticinsights.com
-0.0.0.0 hosts.atlas-sys.com
-0.0.0.0 illiad-update.atlas-sys.com
 0.0.0.0 hpprovider.atlascomplete.com
 0.0.0.0 sdk.atlasct.com
 0.0.0.0 eset.atlasps.com
@@ -3994,8 +3985,6 @@
 0.0.0.0 c.betrad.com
 0.0.0.0 cdn.betrad.com
 0.0.0.0 stats.betradar.com
-0.0.0.0 app.bettercloud.com
-0.0.0.0 g.bettercloud.com
 0.0.0.0 app.betterimpact.com
 0.0.0.0 ads.betweendigital.com
 0.0.0.0 app.bevspot.com
@@ -4166,9 +4155,6 @@
 0.0.0.0 about.bnef.com
 0.0.0.0 bnmla.com
 0.0.0.0 eblast.bnpmedia.com
-0.0.0.0 go2.boardbooks.com
-0.0.0.0 go3.boardbooks.com
-0.0.0.0 ec.boardvantage.com
 0.0.0.0 imt.boatwizard.com
 0.0.0.0 rgr.bob-recs.com
 0.0.0.0 stw.bob-recs.com
@@ -4213,7 +4199,6 @@
 0.0.0.0 a.bouptosaive.com
 0.0.0.0 b.bouptosaive.com
 0.0.0.0 app.bowencraggs.com
-0.0.0.0 extensions.bowthemes.com
 0.0.0.0 cr.bpmob.com
 0.0.0.0 sa.bpmob.com
 0.0.0.0 safe24.bpmob.com
@@ -4354,13 +4339,8 @@
 0.0.0.0 ads-uat.bridgetrack.com
 0.0.0.0 sec-ads.bridgetrack.com
 0.0.0.0 sec-citi.bridgetrack.com
-0.0.0.0 target.brightarrow.com
-0.0.0.0 target1000.brightarrow.com
 0.0.0.0 metrics.brightcove.com
 0.0.0.0 runtv.brightcove-services.com
-0.0.0.0 apps.brighthouse.com
-0.0.0.0 careapi.brighthouse.com
-0.0.0.0 profile.brighthouse.com
 0.0.0.0 na5.brightidea.com
 0.0.0.0 agentnotifications.brightmetrics.com
 0.0.0.0 realtime-a.brightmetrics.com
@@ -4676,7 +4656,6 @@
 0.0.0.0 chestionar.ro
 0.0.0.0 ad.chicv.com
 0.0.0.0 prodhub.chicv.com
-0.0.0.0 eaccess.chiefautomotive.com
 0.0.0.0 commcdn.chiji-h5.com
 0.0.0.0 spa.chiji8.info
 0.0.0.0 profiles.chilipiper.com
@@ -4723,8 +4702,6 @@
 0.0.0.0 mb.cision.com
 0.0.0.0 prapi.cision.com
 0.0.0.0 pt.cision.com
-0.0.0.0 lts.citnow.com
-0.0.0.0 uk-primary.citnow.com
 0.0.0.0 cityads.ru
 0.0.0.0 citygrid.com
 0.0.0.0 steganos-api.ciuvo.com
@@ -4740,7 +4717,6 @@
 0.0.0.0 jnova.cjt1.net
 0.0.0.0 collector.clareity.net
 0.0.0.0 collectorgcp.clareity.net
-0.0.0.0 spdg.clariant.com
 0.0.0.0 apps.clarivate.com
 0.0.0.0 ips.clarivate.com
 0.0.0.0 tags-cdn.clarivoy.com
@@ -4748,7 +4724,6 @@
 0.0.0.0 st.classpass-link.com
 0.0.0.0 b.classsend.com
 0.0.0.0 t.clcktrax.com
-0.0.0.0 noti.cleancitynetworks.com
 0.0.0.0 ads.cleanyourphone.life
 0.0.0.0 acs.clearaccess.com
 0.0.0.0 e.clearme.com
@@ -4898,8 +4873,6 @@
 0.0.0.0 logger.cloudmobi.net
 0.0.0.0 vast.cloudmobi.net
 0.0.0.0 cloudmobi.net
-0.0.0.0 grid.cloudpassage.com
-0.0.0.0 ccs3.cloudprovisioning.com
 0.0.0.0 analytics.cloudron.io
 0.0.0.0 drive.cloudsdmavi.com
 0.0.0.0 click.cloudsmobi.com
@@ -5092,7 +5065,6 @@
 0.0.0.0 sync.colossusssp.com
 0.0.0.0 rdns1.coloup.com
 0.0.0.0 rdns2.coloup.com
-0.0.0.0 spa.columbiautilities.com
 0.0.0.0 apis.com.br
 0.0.0.0 analytics.awsli.com.br
 0.0.0.0 banner.boostbox.com.br
@@ -5247,7 +5219,6 @@
 0.0.0.0 stun-pool-1.connecteddata.com
 0.0.0.0 stun-pool-2.connecteddata.com
 0.0.0.0 data.connectify.me
-0.0.0.0 ehr.connectiverx.com
 0.0.0.0 api.connecto.io
 0.0.0.0 gm.connectsolutions.com
 0.0.0.0 gmservices.connectsolutions.com
@@ -5395,8 +5366,6 @@
 0.0.0.0 creafi.com
 0.0.0.0 app.creately.com
 0.0.0.0 analytics-ingest.creative-mobile.com
-0.0.0.0 zoocraft.creative-mobile.com
-0.0.0.0 zoocraft-maintenance.creative-mobile.com
 0.0.0.0 ads.creative-serving.com
 0.0.0.0 adops.cricbuzz.com
 0.0.0.0 ads.cricbuzz.com
@@ -5616,8 +5585,6 @@
 0.0.0.0 starkapp.cvte.com
 0.0.0.0 starkui.cvte.com
 0.0.0.0 static.cvte.com
-0.0.0.0 feserverapp.cwg-plc.com
-0.0.0.0 umobile.cwg-plc.com
 0.0.0.0 ash-lb2.cxense.com
 0.0.0.0 ash-lb3.cxense.com
 0.0.0.0 ash-r2u11.cxense.com
@@ -5651,10 +5618,7 @@
 0.0.0.0 dable.io
 0.0.0.0 pf.daerisoft.com
 0.0.0.0 a.dagasaka.com
-0.0.0.0 share.dagnedover.com
 0.0.0.0 sha2.daikinonlinecontroller.com
-0.0.0.0 davf.daisypath.com
-0.0.0.0 davm.daisypath.com
 0.0.0.0 wen.dajibai.com
 0.0.0.0 cipher.dakiscdn.com
 0.0.0.0 static.daktilo.com
@@ -6141,9 +6105,6 @@
 0.0.0.0 tag.divvit.com
 0.0.0.0 tracker.divvit.com
 0.0.0.0 track.dixierevival.net
-0.0.0.0 cdn.diynot.com
-0.0.0.0 i.diynot.com
-0.0.0.0 iris.diynot.com
 0.0.0.0 io.dizx.xyz
 0.0.0.0 djax.com
 0.0.0.0 ring.djduoduo.com
@@ -16615,7 +16576,7 @@
 0.0.0.0 p.rfihub.com
 0.0.0.0 rfihub.com
 0.0.0.0 apis.rfksrv.com
-0.0.0.0 wpc.32df9.rhocdn.net
+0.0.0.0 wz.32df9.rhocdn.net
 0.0.0.0 adserver.rhombusads.com
 0.0.0.0 api.rhombusads.com
 0.0.0.0 cdn.rhombusads.com
