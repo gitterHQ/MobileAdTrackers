@@ -1044,7 +1044,6 @@
 0.0.0.0 delivery.adnuntius.com
 0.0.0.0 tags.adnuntius.com
 0.0.0.0 secure.adnx.com
-0.0.0.0 acdn.adnxs.com
 0.0.0.0 ads.adnxs.com
 0.0.0.0 adscale-emea.adnxs.com
 0.0.0.0 adstxt.adnxs.com
@@ -7096,7 +7095,6 @@
 0.0.0.0 fabric.io
 0.0.0.0 an.facebook.com
 0.0.0.0 error.facebook.com
-0.0.0.0 api.facer.io
 0.0.0.0 api.factual.com
 0.0.0.0 geopulse.factual.com
 0.0.0.0 et2.intake.factual.com
@@ -8764,9 +8762,7 @@
 0.0.0.0 vikingmedia.hotrk0.com
 0.0.0.0 vinsmok.hotrk0.com
 0.0.0.0 soap.hotschedules.com
-0.0.0.0 img1.hotstarext.com
-0.0.0.0 secure-media1.hotstarext.com
-0.0.0.0 hotwords.com
+w0.0.0.0 hotwords.com
 0.0.0.0 bh.houndify.com
 0.0.0.0 images.hour-media.com
 0.0.0.0 servedby.hour-media.com
@@ -8832,7 +8828,6 @@
 0.0.0.0 ads-v-darwin.hulu.com
 0.0.0.0 360view.hum3d.com
 0.0.0.0 humandemand.com
-0.0.0.0 dl.humble.com
 0.0.0.0 mobile.log.hunantv.com
 0.0.0.0 mp4.res.hunantv.com
 0.0.0.0 me.hunkal.com
@@ -9722,7 +9717,6 @@
 0.0.0.0 tile-api.inrix.com
 0.0.0.0 uas-api.inrix.com
 0.0.0.0 analytics-events.inshorts.com
-0.0.0.0 assets.inshorts.com
 0.0.0.0 collector.insight-stats.com
 0.0.0.0 inv.insightapac.com
 0.0.0.0 cdn.insightexpress.com
@@ -9741,10 +9735,6 @@
 0.0.0.0 topix.insightexpressai.com
 0.0.0.0 your-surveys.insightexpressai.com
 0.0.0.0 clients.insightsquared.com
-0.0.0.0 api.insighttimer.com
-0.0.0.0 apicached.insighttimer.com
-0.0.0.0 files.insighttimer.com
-0.0.0.0 legacy.insighttimer.com
 0.0.0.0 cdn.insigit.com
 0.0.0.0 cdn.inskinad.com
 0.0.0.0 mfad.inskinad.com
@@ -10257,9 +10247,6 @@
 0.0.0.0 account-assets.jimstatic.com
 0.0.0.0 assets.jimstatic.com
 0.0.0.0 haohuo.jinritemai.com
-0.0.0.0 backend.jiobit.com
-0.0.0.0 rtss-prod.jioconnect.com
-0.0.0.0 sim.jiovt.com
 0.0.0.0 jimg.jisuoping.com
 0.0.0.0 cdnet.jisusaiche.com
 0.0.0.0 ll.jisusaiche.com
@@ -14111,14 +14098,9 @@
 0.0.0.0 neweggstats.com
 0.0.0.0 mobi.neweives.com
 0.0.0.0 api.newgistics.com
-0.0.0.0 images.info.newhope360.com
 0.0.0.0 app.newkajabi.com
 0.0.0.0 510.newlife-sh.com
-0.0.0.0 marketing.newmediadigital.com
-0.0.0.0 wih.newmediadigital.com
 0.0.0.0 engage.newmode.net
-0.0.0.0 img.beta.newoldstamp.com
-0.0.0.0 img.newoldstamp.com
 0.0.0.0 newonads.com
 0.0.0.0 clarify.newpush.support
 0.0.0.0 alerts.newrelic.com
@@ -14139,8 +14121,6 @@
 0.0.0.0 collector-pool.newrelic.com
 0.0.0.0 download.newrelic.com
 0.0.0.0 service.eu.newrelic.com
-0.0.0.0 infra-api.newrelic.com
-0.0.0.0 infrastructure.newrelic.com
 0.0.0.0 insights.newrelic.com
 0.0.0.0 insights-collector.newrelic.com
 0.0.0.0 ir.newrelic.com
@@ -14152,15 +14132,6 @@
 0.0.0.0 platform-api.newrelic.com
 0.0.0.0 rpm.newrelic.com
 0.0.0.0 rpm-images.newrelic.com
-0.0.0.0 chartdata.service.newrelic.com
-0.0.0.0 hypertext.service.newrelic.com
-0.0.0.0 infrastructure-alert.service.newrelic.com
-0.0.0.0 infrastructure-context.service.newrelic.com
-0.0.0.0 infrastructure-data.service.newrelic.com
-0.0.0.0 infrastructure-userdata.service.newrelic.com
-0.0.0.0 nerd-graph.service.newrelic.com
-0.0.0.0 wildcard.service.newrelic.com
-0.0.0.0 service.newrelic.com
 0.0.0.0 staging-custom-event-inserter.newrelic.com
 0.0.0.0 staging-insights-collector.newrelic.com
 0.0.0.0 staging-service.newrelic.com
