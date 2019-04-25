@@ -165,22 +165,14 @@ Advertising & Promotion,Mobile Marketing,Appreciate,appreciate.mobi,,,,,
 Content & Experience,Mobile Apps,Appscend,appscend.com,,com.appscend.,,,
 Content & Experience,Mobile Apps,AppSee,appsee.com,,com.appsee,,,ETIP
 Data,Mobile & Web Analytics,AppsFlyer,appsflyer.com,,com.appsflyer.adx.sdk,,,ETIP
-,,Appsnack,appsnack.com,USA,,,,
-,,appssavvy,,,,,,
-,,AppTap,apptap.com,USA,,,,
+,,AppTap,apptap.com,USA,,api.apptap.com|appdiscovery.apptap.com,,
 Social & Relationships,Customer Experience Service & Success,Apptentive,apptentive.com,,com.apptentive.android.sdk,,,ETIP
 Content & Experience,Mobile Apps,Apptimize,apptimize.com,,com.apptimize,,,ETIP
-,,Apptrace,,,,,,
-Advertising & Promotion,Mobile Marketing,AppTweak,apptweak.com,,,,,
-,,Appurify,,,,,,
-,,AppWrapper,,,,,,
 Data,Marketing Analytics Performance & Attribution,Apsalar,apsalar.com,USA,com.apsalar.sdk,,,ETIP
 Content & Experience,Mobile Apps,Apteligent by VMWare (formerly crittercism),apteligent.com,,com.crittercism.app.Crittercism,api.crittercism.com|appload.ingest.crittercism.com|txn.ingest.crittercism.com,,ETIP
 Commerce & Sales,Sales Automation Enablement & Intelligence,Aquafadas,aquafadas.com,,com.aquafadas.dp.reader.sdk.,,,
-Advertising & Promotion,Mobile Marketing,Aquto,aquto.com,,,,,
 ,,Archer Inc,archermobile.com,USA,,,,
 ,,Areametrics,areametrics.com,,com.areametrics.areametricssdk|com.areametrics.nosdkandroid,,,ETIP
-Commerce & Sales,Retail Proximity & IoT Marketing,Arreya,arreya.com,,,,,
 Content & Experience,Mobile Apps,Aruba Networks,arubanetworks.com,,com.arubanetworks.meridian.,,,
 Data,Mobile & Web Analytics,AskingPoint,askingpoint.com,,,,,
 Data,Mobile & Web Analytics,AT INTERNET,atinternet.com,,com.atinternet,,,
@@ -189,7 +181,6 @@ Content & Experience,Mobile Apps,Attendify,attendify.com,,com.attendify.android.
 Advertising & Promotion,Mobile Marketing,Attentive,attentivemobile.com,,,,,
 ,,Augme Technologies,augme.com,USA,,,,
 Content & Experience,Mobile Apps,Augur,augur.io,,io.augur.,,,
-Commerce & Sales,Retail Proximity & IoT Marketing,AutoPOS,autopos.co,,,,,
 Advertising & Promotion,Mobile Marketing,Avazu,avazuinc.com,China,,,,ETIP
 Advertising & Promotion,Mobile Marketing,AvidMobile,avidmobile.com,,,,,
 Advertising & Promotion,Mobile Marketing,avocarrot,market-group.com,,,,,
