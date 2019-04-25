@@ -198,7 +198,7 @@ Advertising & Promotion,Mobile Marketing,Batch,batch.com,,com.batch.android,,,ET
 Social & Relationships,Community & Reviews,BazaarVoice,bazaarvoice.com,,com.bazaarvoice.bvandroidsdk,,,ETIP
 Data,DMP,Beaconinside Proximity Dmp,beaconinside.com,,,,ETIP,
 ,,BeaconsInSpace (Fysical),beaconsinspace.com,,com.beaconsinspace.android.beacon.detector.,,,ETIP
-Commerce & Sales,Retail Proximity & IoT Marketing,Beaconstac,beaconstac.com,,,,,
+Commerce & Sales,Retail Proximity & IoT Marketing,Beaconstac,beaconstac.com,,,,,ETIP
 ,,Bee7,bee7.com,,com.bee7.sdk,,,
 ,,Beemray,beemray.com,,com.beemray.,,,ETIP
 ,,Beintoo,beintoo.com,Italy,com.beintoo.beaudiencesdk,,,
@@ -215,7 +215,6 @@ Commerce & Sales,Retail Proximity & IoT Marketing,Blis,blis.com,,,,,
 Data,Mobile & Web Analytics,Blue Green Analytics,bluegreenanalytics.com,,,,,
 ,,Bluecats,bluecats.com,,com.bluecats.sdk,,,ETIP
 Data,Customer Data Platform,BlueConic,blueconic.com,,com.blueconic,,,ETIP
-Commerce & Sales,Retail Proximity & IoT Marketing,bluedot,discoverthebluedot.com,,,,,
 ,,BlueKai (acquired by Oracle),bluekai.com,,com.bluekai.sdk,,,ETIP
 ,,bluTonic,blutonic.com,USA,,,,
 ,,Boingo,media.boingo.com,USA,,,,
