@@ -6,7 +6,7 @@ https://raw.githubusercontent.com/jawz101/MobileAdTrackers/master/hosts
 
 To give you an idea of why we need better mobile ad lists take a look at [Marketing Technology Landscape Supergraphic - Martec](https://chiefmartec.com/2019/04/marketing-technology-landscape-supergraphic-2019/).
 
-Rationale: Other blocklists are fine for blocking desktop and browser-based ad networks but I rarely see those domains and subdomains get hit by mobile apps.
+Rationale: Other blocklists are fine for blocking desktop and browser-based domains but not too focused on mobile app traffic.
 
 Apps and other resources interested in Android mobile privacy efforts:
 
