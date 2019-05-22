@@ -717,7 +717,6 @@
 0.0.0.0 apps.admob.com
 0.0.0.0 c.admob.com
 0.0.0.0 jp.admob.com
-0.0.0.0 e.l.admob.com
 0.0.0.0 r.l.admob.com
 0.0.0.0 m.admob.com
 0.0.0.0 media.admob.com
@@ -1273,8 +1272,6 @@
 0.0.0.0 secure0.adswizz.com
 0.0.0.0 sonar.adswizz.com
 0.0.0.0 soundcloud.adswizz.com
-0.0.0.0 cf-npr.streaming.adswizz.com
-0.0.0.0 npr.streaming.adswizz.com
 0.0.0.0 sdk.streaming.adswizz.com
 0.0.0.0 streaming.adswizz.com
 0.0.0.0 synchrobox.adswizz.com
@@ -1309,7 +1306,6 @@
 0.0.0.0 aka-cdn.adtech.de
 0.0.0.0 aka-cdn-ns.adtech.de
 0.0.0.0 amsad.adtech.de
-0.0.0.0 api-doc.adtech.de
 0.0.0.0 assets.adtech.de
 0.0.0.0 core.adtech.de
 0.0.0.0 cstest.adtech.de
@@ -1491,7 +1487,6 @@
 0.0.0.0 syndication.advertiserurl.com
 0.0.0.0 ads.adaptv.advertising.com
 0.0.0.0 ads-ap.adaptv.advertising.com
-0.0.0.0 cdn.adaptv.advertising.com
 0.0.0.0 control-test-ec.adaptv.advertising.com
 0.0.0.0 conversions.adaptv.advertising.com
 0.0.0.0 guce.adaptv.advertising.com
@@ -1751,7 +1746,6 @@
 0.0.0.0 krishnaw224.alphonso.tv
 0.0.0.0 prov4.alphonso.tv
 0.0.0.0 prov5.alphonso.tv
-0.0.0.0 recommender2.alphonso.tv
 0.0.0.0 recommender4.alphonso.tv
 0.0.0.0 sync.alphonso.tv
 0.0.0.0 tr.alphonso.tv
@@ -2457,7 +2451,6 @@
 0.0.0.0 app-icons.apptentive.com
 0.0.0.0 sdk.apptentive.com
 0.0.0.0 apptera.com
-0.0.0.0 trk.appthis.io
 0.0.0.0 brahe.apptimize.com
 0.0.0.0 go.apptimize.com
 0.0.0.0 mapi.apptimize.com
@@ -2612,7 +2605,6 @@
 0.0.0.0 img2.autoimg.cn
 0.0.0.0 api.avantmobile.com
 0.0.0.0 analytics.ff.avast.com
-0.0.0.0 analytics-v4-poc.ff.avast.com
 0.0.0.0 ipm-provider.ff.avast.com
 0.0.0.0 analytics.ns1.ff.avast.com
 0.0.0.0 mobile-campaigns.avast.com
@@ -2723,7 +2715,6 @@
 0.0.0.0 crs.baidu.com
 0.0.0.0 datax.baidu.com
 0.0.0.0 dj1.baidu.com
-0.0.0.0 dl1sw.baidu.com
 0.0.0.0 duclick.baidu.com
 0.0.0.0 dxp.baidu.com
 0.0.0.0 dzl.baidu.com
@@ -3231,7 +3222,6 @@
 0.0.0.0 cashprom.ru
 0.0.0.0 cloud.cashtrafic.info
 0.0.0.0 castplatform.com
-0.0.0.0 api.catch.gift
 0.0.0.0 cb-cdn.com
 0.0.0.0 cben1.net
 0.0.0.0 cbmall.com
@@ -3429,7 +3419,6 @@
 0.0.0.0 static.clickyab.com
 0.0.0.0 supplier.clickyab.com
 0.0.0.0 t.clickyab.com
-0.0.0.0 clickzxc.com
 0.0.0.0 trk.clinch.co
 0.0.0.0 clipbongda.info
 0.0.0.0 an.cliphub.io
@@ -3998,7 +3987,6 @@
 0.0.0.0 cszz.ru
 0.0.0.0 metrics.ctv.ca
 0.0.0.0 mobile-app.cuballama.com
-0.0.0.0 static.cubeskyland.com
 0.0.0.0 in.cuebiq.com
 0.0.0.0 track.customer.io
 0.0.0.0 ash-lb2.cxense.com
@@ -5242,7 +5230,6 @@
 0.0.0.0 push1.foxpush.com
 0.0.0.0 pushaction.foxpush.com
 0.0.0.0 fptad.com
-0.0.0.0 a.fqtag.com
 0.0.0.0 c.fqtag.com
 0.0.0.0 cdn.fqtag.com
 0.0.0.0 new.fqtag.com
@@ -5580,7 +5567,6 @@
 0.0.0.0 adservice.google.nl
 0.0.0.0 ssl.google-analytics.com
 0.0.0.0 www.google-analytics.com
-0.0.0.0 googleadservices.at
 0.0.0.0 4.afs.googleadservices.com
 0.0.0.0 pagead2.googleadservices.com
 0.0.0.0 partner.googleadservices.com
@@ -6051,7 +6037,6 @@
 0.0.0.0 talk.nz4.igexin.com
 0.0.0.0 talk.igexin.com
 0.0.0.0 analytics.ihbsoft.com
-0.0.0.0 ads.ihippogame.com
 0.0.0.0 sdk.ihippogame.com
 0.0.0.0 ads-chunks.prod.ihrhls.com
 0.0.0.0 wass.ihsmarkit.com
@@ -6266,7 +6251,6 @@
 0.0.0.0 config.vip1.ams1.inmobi.com
 0.0.0.0 c.w.vip1.ams1.inmobi.com
 0.0.0.0 w.vip1.ams1.inmobi.com
-0.0.0.0 ams1.inmobi.com
 0.0.0.0 api.inmobi.com
 0.0.0.0 bw-uswest-bidder.appd.inmobi.com
 0.0.0.0 ifc.auth.inmobi.com
@@ -7398,7 +7382,6 @@
 0.0.0.0 m1-shop.ru
 0.0.0.0 ingest.m2appmonitor.com
 0.0.0.0 m2pub.com
-0.0.0.0 ad.m5prod.net
 0.0.0.0 ma-code.ru
 0.0.0.0 ma-static.ru
 0.0.0.0 metrics.macys.net
@@ -8779,7 +8762,6 @@
 0.0.0.0 mobpowertech.com
 0.0.0.0 mobrain.com
 0.0.0.0 mobrand.net
-0.0.0.0 mobred.net
 0.0.0.0 cdn.mobsocmedia.com
 0.0.0.0 mobsrv.in
 0.0.0.0 mobstac.com
@@ -10184,7 +10166,6 @@
 0.0.0.0 imgcdn1.poxo.com
 0.0.0.0 patriot.cs.pp.cn
 0.0.0.0 asimgs.pplive.cn
-0.0.0.0 static.g.ppstream.com
 0.0.0.0 de.as.pptv.com
 0.0.0.0 jp.as.pptv.com
 0.0.0.0 pr-ten.de
@@ -10451,7 +10432,6 @@
 0.0.0.0 sock158-mt1.pusher.com
 0.0.0.0 sock159-mt1.pusher.com
 0.0.0.0 sock160-mt1.pusher.com
-0.0.0.0 sock161-mt1.pusher.com
 0.0.0.0 sock35-goguardian.pusher.com
 0.0.0.0 sock44-goguardian.pusher.com
 0.0.0.0 sock45-goguardian.pusher.com
@@ -10737,7 +10717,6 @@
 0.0.0.0 api.redshell.io
 0.0.0.0 redtram.com
 0.0.0.0 reduxmediagroup.com
-0.0.0.0 reefaquarium.biz
 0.0.0.0 ads.reembed.com
 0.0.0.0 d.refinedads.com
 0.0.0.0 registeridm.com
@@ -10792,9 +10771,6 @@
 0.0.0.0 static.revealmobile.com
 0.0.0.0 revenue.com
 0.0.0.0 images.revmob.com
-0.0.0.0 ios.revmob.com
-0.0.0.0 trafficshieldsdk.revmob.com
-0.0.0.0 userinfo.revmob.com
 0.0.0.0 revmob.com
 0.0.0.0 xml.revrtb.com
 0.0.0.0 revrtb.com
@@ -11468,7 +11444,6 @@
 0.0.0.0 ads.sonataplatform.com
 0.0.0.0 ads.sonobi.com
 0.0.0.0 api.sonobi.com
-0.0.0.0 corp.sonobi.com
 0.0.0.0 creative.sonobi.com
 0.0.0.0 ams-1.go.sonobi.com
 0.0.0.0 ams-1-apex.go.sonobi.com
@@ -12231,9 +12206,6 @@
 0.0.0.0 s.tagsrvcs.com
 0.0.0.0 analytics.tagular.com
 0.0.0.0 cdn.tagular.com
-0.0.0.0 online.tagular.com
-0.0.0.0 sa-collector.tagular.com
-0.0.0.0 us-collector.tagular.com
 0.0.0.0 tags.t.tailtarget.com
 0.0.0.0 takip.site
 0.0.0.0 gaandroid.talkingdata.net
@@ -12404,7 +12376,6 @@
 0.0.0.0 tdxio.com
 0.0.0.0 a.teads.tv
 0.0.0.0 a-origin.teads.tv
-0.0.0.0 a-poc.teads.tv
 0.0.0.0 be-ms.teads.tv
 0.0.0.0 cdn.teads.tv
 0.0.0.0 cdn2.teads.tv
@@ -12450,7 +12421,6 @@
 0.0.0.0 track.tenjin.io
 0.0.0.0 teracreative.com
 0.0.0.0 terraclicks.com
-0.0.0.0 ads.tersertude.com
 0.0.0.0 ondemand.tf-cdn.net
 0.0.0.0 push.tf-cdn.net
 0.0.0.0 static.tf-cdn.net
