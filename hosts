@@ -167,7 +167,6 @@
 0.0.0.0 campaign.ad-brix.com
 0.0.0.0 config.ad-brix.com
 0.0.0.0 cvr.ad-brix.com
-0.0.0.0 igaw-cm.ad-brix.com
 0.0.0.0 partners.ad-brix.com
 0.0.0.0 ref.ad-brix.com
 0.0.0.0 tracking.ad-brix.com
@@ -1610,8 +1609,6 @@
 0.0.0.0 api.ae888.com
 0.0.0.0 ads.aerserv.com
 0.0.0.0 alpha-events.aerserv.com
-0.0.0.0 bidder.aerserv.com
-0.0.0.0 debug.aerserv.com
 0.0.0.0 dmp.aerserv.com
 0.0.0.0 events.aerserv.com
 0.0.0.0 track.afcpatrk.com
@@ -2478,8 +2475,6 @@
 0.0.0.0 apptornado.com
 0.0.0.0 c.apptrk.io
 0.0.0.0 go.apptrk.io
-0.0.0.0 am.apptrknow.com
-0.0.0.0 md.apptrknow.com
 0.0.0.0 appular.com
 0.0.0.0 api.appwifi.com
 0.0.0.0 tracking.appwifi.com
@@ -2789,7 +2784,6 @@
 0.0.0.0 usp1.baidu.com
 0.0.0.0 utility.baidu.com
 0.0.0.0 stat.v.baidu.com
-0.0.0.0 wisepush.video.baidu.com
 0.0.0.0 pc.videoclick.baidu.com
 0.0.0.0 wm.baidu.com
 0.0.0.0 w.x.baidu.com
@@ -3796,7 +3790,6 @@
 0.0.0.0 cqlupb.com
 0.0.0.0 piq.cr-nielsen.com
 0.0.0.0 t.cr-nielsen.com
-0.0.0.0 ads.crakmedia.com
 0.0.0.0 crasheye.cn
 0.0.0.0 api.crashlytics.com
 0.0.0.0 apps.crashlytics.com
@@ -4195,7 +4188,6 @@
 0.0.0.0 engage14052tnkrs.deltadna.net
 0.0.0.0 engage14451lghtt.deltadna.net
 0.0.0.0 engage14541skllg.deltadna.net
-0.0.0.0 engage2034hrsnd.deltadna.net
 0.0.0.0 engage2674dltcr.deltadna.net
 0.0.0.0 engage3515gvrnr.deltadna.net
 0.0.0.0 engage5081wrdch.deltadna.net
@@ -4573,7 +4565,6 @@
 0.0.0.0 motu-hk.ssl2.duapps.com
 0.0.0.0 nrcapi.ssl2.duapps.com
 0.0.0.0 rts.ssl2.duapps.com
-0.0.0.0 whosthat.ssl2.duapps.com
 0.0.0.0 pasta.tk.duapps.com
 0.0.0.0 pasta.whosthat.duapps.com
 0.0.0.0 duapps.com
@@ -4757,7 +4748,6 @@
 0.0.0.0 production-adkviewtrackingtagserver.ap-northeast-1.elasticbeanstalk.com
 0.0.0.0 push-sdk-backend-production.ap-south-1.elasticbeanstalk.com
 0.0.0.0 signal-sdk-service-production.ap-south-1.elasticbeanstalk.com
-0.0.0.0 audiencedatacollector-prod-active.ap-southeast-2.elasticbeanstalk.com
 0.0.0.0 beacons-production.elasticbeanstalk.com
 0.0.0.0 bejeweled-skies-prod.elasticbeanstalk.com
 0.0.0.0 bugsee-api-prod.elasticbeanstalk.com
@@ -4864,7 +4854,6 @@
 0.0.0.0 app-config.enhance.co
 0.0.0.0 data-location.enhance.co
 0.0.0.0 strk.enlnks.com
-0.0.0.0 activate.ensighten.com
 0.0.0.0 nexus.ensighten.com
 0.0.0.0 nexus-test.ensighten.com
 0.0.0.0 scarf.ensighten.com
@@ -5369,7 +5358,6 @@
 0.0.0.0 sdk-config.fyber.com
 0.0.0.0 service.fyber.com
 0.0.0.0 staging-appengage-video.fyber.com
-0.0.0.0 staging-banner.fyber.com
 0.0.0.0 staging-bs-creatives.fyber.com
 0.0.0.0 staging-engine.fyber.com
 0.0.0.0 staging-ofw-client-cdn.fyber.com
@@ -5882,8 +5870,6 @@
 0.0.0.0 i2ad.jp
 0.0.0.0 i2i.jp
 0.0.0.0 ad.i2idata.com
-0.0.0.0 geoinfo.i2w.io
-0.0.0.0 tracking-thirdparty.i2w.io
 0.0.0.0 beaconhub.iadmob.com
 0.0.0.0 iadnet.com
 0.0.0.0 api.iadvize.com
@@ -6481,8 +6467,6 @@
 0.0.0.0 intermarkets.net
 0.0.0.0 cloud.internetstores.com
 0.0.0.0 interseek.si
-0.0.0.0 adcfg.intowow.com
-0.0.0.0 geoinfo.intowow.com
 0.0.0.0 intowow.com
 0.0.0.0 api.intsig.net
 0.0.0.0 inuvi.com
@@ -6790,7 +6774,6 @@
 0.0.0.0 keynotedeviceanywhere.com
 0.0.0.0 tracking.keywee.co
 0.0.0.0 look.kfiopkln.com
-0.0.0.0 kibirata.ru
 0.0.0.0 kiip.com
 0.0.0.0 api.kiip.me
 0.0.0.0 app.kiip.me
@@ -7041,7 +7024,6 @@
 0.0.0.0 go.leanplum.com
 0.0.0.0 phabricator.leanplum.com
 0.0.0.0 reports.leanplum.com
-0.0.0.0 s3.lecloud.com
 0.0.0.0 legolas-media.com
 0.0.0.0 log.lemonpi.io
 0.0.0.0 tracking.lengow.com
@@ -7070,7 +7052,6 @@
 0.0.0.0 api.hdtv.letv.com
 0.0.0.0 pro.hoye.letv.com
 0.0.0.0 api.itv.letv.com
-0.0.0.0 upgrade.itv.letv.com
 0.0.0.0 api.live.letv.com
 0.0.0.0 n.mark.letv.com
 0.0.0.0 api.platform.letv.com
@@ -7127,7 +7108,6 @@
 0.0.0.0 impression-asia.liftoff.io
 0.0.0.0 impression-east.liftoff.io
 0.0.0.0 impression-europe.liftoff.io
-0.0.0.0 polymorph-rtb.liftoff.io
 0.0.0.0 a.ligatus.com
 0.0.0.0 a-ssl.ligatus.com
 0.0.0.0 analysis.ligatus.com
@@ -7877,21 +7857,14 @@
 0.0.0.0 youtrack.mgid.com
 0.0.0.0 ad.mi.com
 0.0.0.0 api.io.mi.com
-0.0.0.0 chuanyang-cm.cn.miaozhen.com
 0.0.0.0 cm.cn.miaozhen.com
-0.0.0.0 cookiemapping.cn.miaozhen.com
 0.0.0.0 e.cn.miaozhen.com
 0.0.0.0 g.cn.miaozhen.com
 0.0.0.0 hunantv-ipdx.cn.miaozhen.com
-0.0.0.0 hylink-cm.cn.miaozhen.com
-0.0.0.0 mangguo-cm.cn.miaozhen.com
 0.0.0.0 monitor-tools.cn.miaozhen.com
-0.0.0.0 ruien-cm.cn.miaozhen.com
 0.0.0.0 stm-cdn.cn.miaozhen.com
 0.0.0.0 stm-collect.cn.miaozhen.com
-0.0.0.0 tvsohu-cm.cn.miaozhen.com
 0.0.0.0 xiaomi-mipdx.cn.miaozhen.com
-0.0.0.0 xtrader-cm.cn.miaozhen.com
 0.0.0.0 e.jp.miaozhen.com
 0.0.0.0 g.jp.miaozhen.com
 0.0.0.0 miaozhen.com
@@ -8641,7 +8614,6 @@
 0.0.0.0 measure.mobileapptracking.com
 0.0.0.0 media.mobileapptracking.com
 0.0.0.0 platform.mobileapptracking.com
-0.0.0.0 stage.mobileapptracking.com
 0.0.0.0 api.mobilearts.io
 0.0.0.0 d.mobilebanner.ru
 0.0.0.0 p.mobilebanner.ru
@@ -8657,7 +8629,6 @@
 0.0.0.0 i.mobilefuse.com
 0.0.0.0 mobilefuse.com
 0.0.0.0 mobilefuse.net
-0.0.0.0 mobilefuse.nu
 0.0.0.0 br.mobilelifeconnect.com
 0.0.0.0 clickl5.mobilemediaking.com
 0.0.0.0 mobilemessenger.com
@@ -8971,11 +8942,7 @@
 0.0.0.0 stjjp.msn.com
 0.0.0.0 partnervideo.syndication.msn.com
 0.0.0.0 sdkconf.msstatic.com
-0.0.0.0 ad.mtburn.com
-0.0.0.0 appconf.mtburn.com
-0.0.0.0 conv.mtburn.com
 0.0.0.0 mtburn.com
-0.0.0.0 mtburn.jp
 0.0.0.0 mtrcss.com
 0.0.0.0 mucu.jp
 0.0.0.0 analytics-ingest.anypoint.mulesoft.com
@@ -9250,7 +9217,6 @@
 0.0.0.0 midoweb.offerstrack.net
 0.0.0.0 ogury.com
 0.0.0.0 medias.cloud.ogury.io
-0.0.0.0 ac-v1.prod.cloud.ogury.io
 0.0.0.0 as-v1.prod.cloud.ogury.io
 0.0.0.0 bip.prod.cloud.ogury.io
 0.0.0.0 ext-inv-cdn.prod.cloud.ogury.io
@@ -9335,7 +9301,6 @@
 0.0.0.0 omtrdc.net
 0.0.0.0 ad1.on.cc
 0.0.0.0 ad2.on.cc
-0.0.0.0 ad3.on.cc
 0.0.0.0 ad4.on.cc
 0.0.0.0 ad5.on.cc
 0.0.0.0 ad6.on.cc
@@ -10138,7 +10103,6 @@
 0.0.0.0 serve.popads.net
 0.0.0.0 static.popads.net
 0.0.0.0 world.popadscdn.net
-0.0.0.0 mdsp.popadsdsp.com
 0.0.0.0 stats.popcap.com
 0.0.0.0 cdn.popcash.net
 0.0.0.0 api2.poperblocker.com
@@ -10811,7 +10775,6 @@
 0.0.0.0 rnmd.net
 0.0.0.0 ads.roblox.com
 0.0.0.0 metrics.roblox.com
-0.0.0.0 robocat.me
 0.0.0.0 rocketfuel.com
 0.0.0.0 tracking.rodimobi.com
 0.0.0.0 analytics.rogersmedia.com
@@ -10838,7 +10801,6 @@
 0.0.0.0 mt.rtmark.net
 0.0.0.0 my.rtmark.net
 0.0.0.0 ads.rubiconproject.com
-0.0.0.0 anvil.rubiconproject.com
 0.0.0.0 assets.rubiconproject.com
 0.0.0.0 ads.aws.rubiconproject.com
 0.0.0.0 prebid.aws.rubiconproject.com
@@ -10868,7 +10830,6 @@
 0.0.0.0 flapi2.rubiconproject.com
 0.0.0.0 mrp.rubiconproject.com
 0.0.0.0 optimized-by.rubiconproject.com
-0.0.0.0 optimized-rtp-us-west.rubiconproject.com
 0.0.0.0 pixel.rubiconproject.com
 0.0.0.0 pixel-apac.rubiconproject.com
 0.0.0.0 pixel-eu.rubiconproject.com
@@ -10876,7 +10837,6 @@
 0.0.0.0 pixel-us-west.rubiconproject.com
 0.0.0.0 prebid-a.rubiconproject.com
 0.0.0.0 prebid-server.rubiconproject.com
-0.0.0.0 rfm.rubiconproject.com
 0.0.0.0 secure-assets.rubiconproject.com
 0.0.0.0 tap.rubiconproject.com
 0.0.0.0 tap-cdn.rubiconproject.com
@@ -12416,8 +12376,8 @@
 0.0.0.0 api.videometrics.ted.com
 0.0.0.0 telemetryverification.net
 0.0.0.0 beacon.sparta.mig.tencent-cloud.net
-0.0.0.0 col-edge-prod.tenjin.io
 0.0.0.0 track.tenjin.com
+0.0.0.0 col-edge-prod.tenjin.io
 0.0.0.0 track.tenjin.io
 0.0.0.0 teracreative.com
 0.0.0.0 terraclicks.com
@@ -12751,7 +12711,6 @@
 0.0.0.0 ecommerce.iap.unity3d.com
 0.0.0.0 events.iap.unity3d.com
 0.0.0.0 ads-game-configuration-master.ads.prd.ie.internal.unity3d.com
-0.0.0.0 auction-master.ads.prd.ie.internal.unity3d.com
 0.0.0.0 tracking.prd.mz.internal.unity3d.com
 0.0.0.0 stats.unity3d.com
 0.0.0.0 admediator.unityads.unity3d.com
@@ -12934,7 +12893,6 @@
 0.0.0.0 videoplaza.com
 0.0.0.0 videoplaza.tv
 0.0.0.0 banners.videosecrets.com
-0.0.0.0 api.videoshowapp.com
 0.0.0.0 omsdk.vidible.tv
 0.0.0.0 omsdk.prod.vidible.tv
 0.0.0.0 ads.use1.prod.vidible.tv
@@ -13165,7 +13123,6 @@
 0.0.0.0 c.biz.weibo.com
 0.0.0.0 biz.weibo.com
 0.0.0.0 game.weibo.com
-0.0.0.0 zymo.mps.weibo.com
 0.0.0.0 ad.weplayer.cc
 0.0.0.0 crosspromotion.weplayer.cc
 0.0.0.0 sdk.wesdk.co
