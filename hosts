@@ -5793,10 +5793,6 @@
 0.0.0.0 s10.histats.com
 0.0.0.0 log.hitsteps.com
 0.0.0.0 mobile.api.hmageo.com
-0.0.0.0 hntldgk.com
-0.0.0.0 in.sonoma.hockeyapp.com
-0.0.0.0 gate.hockeyapp.net
-0.0.0.0 sdk.hockeyapp.net
 0.0.0.0 tm1.hoiplay.com
 0.0.0.0 locate.hollandersolutions.com
 0.0.0.0 hostgrater.com
@@ -5829,7 +5825,6 @@
 0.0.0.0 cdn.hoverowl.com
 0.0.0.0 click.howdoesin.net
 0.0.0.0 howdoesin.net
-0.0.0.0 hqsjc.com
 0.0.0.0 hs-analytics.net
 0.0.0.0 js.hs-scripts.com
 0.0.0.0 hs-scripts.com
@@ -7878,10 +7873,8 @@
 0.0.0.0 s-rtb.send.microadinc.com
 0.0.0.0 ssp.send.microadinc.com
 0.0.0.0 send.microadinc.com
-0.0.0.0 mobile.pipe.aria.microsoft.com
 0.0.0.0 advertise.bingads.microsoft.com
 0.0.0.0 bingads.microsoft.com
-0.0.0.0 web.vortex.data.microsoft.com
 0.0.0.0 adtrack1.midasplayer.com
 0.0.0.0 bling1.midasplayer.com
 0.0.0.0 bling2.midasplayer.com
