@@ -7904,7 +7904,6 @@
 0.0.0.0 s-rtb.send.microadinc.com
 0.0.0.0 ssp.send.microadinc.com
 0.0.0.0 send.microadinc.com
-0.0.0.0 mobile.pipe.aria.microsoft.com
 0.0.0.0 advertise.bingads.microsoft.com
 0.0.0.0 bingads.microsoft.com
 0.0.0.0 adtrack1.midasplayer.com
@@ -8942,7 +8941,6 @@
 0.0.0.0 az512334.vo.msecnd.net
 0.0.0.0 az598575.vo.msecnd.net
 0.0.0.0 az708531.vo.msecnd.net
-0.0.0.0 outlookmobile-office365-tas.msedge.net
 0.0.0.0 adevents.msn.com
 0.0.0.0 ads.msn.com
 0.0.0.0 a.ads1.msn.com
