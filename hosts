@@ -35,6 +35,7 @@
 0.0.0.0 member.360in.com
 0.0.0.0 360in.com
 0.0.0.0 3cinteractive.com
+0.0.0.0 a.3fdf2a5f924760915ca68b5ad01cfdae.com
 0.0.0.0 g.3gl.net
 0.0.0.0 r.3gl.net
 0.0.0.0 3gl.net
@@ -1206,6 +1207,7 @@
 0.0.0.0 usedirect.adsrvr.org
 0.0.0.0 usefb.adsrvr.org
 0.0.0.0 usevideo.adsrvr.org
+0.0.0.0 usw-ca2.adsrvr.org
 0.0.0.0 usw-lax.adsrvr.org
 0.0.0.0 usw-lax2.adsrvr.org
 0.0.0.0 uswdirect.adsrvr.org
@@ -2836,6 +2838,8 @@
 0.0.0.0 bayctrk.com
 0.0.0.0 bcfads.com
 0.0.0.0 bcmediagroup.com
+0.0.0.0 a.be190691ee4296b5bcff708f97100c09.com
+0.0.0.0 a.be74465973a07d9e41423b3f82c69aad.com
 0.0.0.0 api.beaconforstore.com
 0.0.0.0 api.beaconinside.com
 0.0.0.0 api.beacons.technology
@@ -4857,6 +4861,7 @@
 0.0.0.0 wapi.engage.co
 0.0.0.0 xdomain.engage.co
 0.0.0.0 engagebdr.com
+0.0.0.0 turbo.engageclick.com
 0.0.0.0 ecs1.engageya.com
 0.0.0.0 events.engageya.com
 0.0.0.0 ext1.engageya.com
@@ -5144,6 +5149,7 @@
 0.0.0.0 proximiio-bus.firebaseio.com
 0.0.0.0 s-usc1c-nss-262.firebaseio.com
 0.0.0.0 firstimpression.io
+0.0.0.0 logging.fishsticksgames.com
 0.0.0.0 sdk.fitle.com
 0.0.0.0 servedby.flashtalking.com
 0.0.0.0 ad.flipboard.com
@@ -6506,6 +6512,7 @@
 0.0.0.0 a.ip-api.com
 0.0.0.0 fp.ip-api.com
 0.0.0.0 us-mo-1.free.ip-api.com
+0.0.0.0 ip-api.com
 0.0.0.0 logservices.ipass.com
 0.0.0.0 om-datacollector.ipass.com
 0.0.0.0 4q.iperceptions.com
@@ -6788,6 +6795,7 @@
 0.0.0.0 keydot.net
 0.0.0.0 au.res.keymedia.com
 0.0.0.0 ca.res.keymedia.com
+0.0.0.0 tj.keymob.com
 0.0.0.0 keynotedeviceanywhere.com
 0.0.0.0 tracking.keywee.co
 0.0.0.0 look.kfiopkln.com
@@ -7896,6 +7904,7 @@
 0.0.0.0 s-rtb.send.microadinc.com
 0.0.0.0 ssp.send.microadinc.com
 0.0.0.0 send.microadinc.com
+0.0.0.0 mobile.pipe.aria.microsoft.com
 0.0.0.0 advertise.bingads.microsoft.com
 0.0.0.0 bingads.microsoft.com
 0.0.0.0 adtrack1.midasplayer.com
@@ -8933,6 +8942,7 @@
 0.0.0.0 az512334.vo.msecnd.net
 0.0.0.0 az598575.vo.msecnd.net
 0.0.0.0 az708531.vo.msecnd.net
+0.0.0.0 outlookmobile-office365-tas.msedge.net
 0.0.0.0 adevents.msn.com
 0.0.0.0 ads.msn.com
 0.0.0.0 a.ads1.msn.com
@@ -9346,6 +9356,7 @@
 0.0.0.0 agero-sdkapi.onereach.com
 0.0.0.0 agero-sdkapi-west.onereach.com
 0.0.0.0 trueblue-sdkapi.onereach.com
+0.0.0.0 onesignal.com
 0.0.0.0 px.onespot.com
 0.0.0.0 csr.onet.pl
 0.0.0.0 app.onetrust.com
@@ -10070,7 +10081,9 @@
 0.0.0.0 api.placer.io
 0.0.0.0 conf.placer.io
 0.0.0.0 planetactive.com
+0.0.0.0 433f.playfabapi.com
 0.0.0.0 4a24.playfabapi.com
+0.0.0.0 687c.playfabapi.com
 0.0.0.0 ph-sdk-api-ssl.playhaven.com
 0.0.0.0 sdk-api-ssl.playhaven.com
 0.0.0.0 playhaven.com
@@ -12732,6 +12745,7 @@
 0.0.0.0 analytics.cloud.unity3d.com
 0.0.0.0 cdp.cloud.unity3d.com
 0.0.0.0 perf-events.cloud.unity3d.com
+0.0.0.0 api.uca.cloud.unity3d.com
 0.0.0.0 config.uca.cloud.unity3d.com
 0.0.0.0 data-optout-service.uca.cloud.unity3d.com
 0.0.0.0 hwstats.unity3d.com
