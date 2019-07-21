@@ -22,7 +22,6 @@
 0.0.0.0 premium.2ch.net
 0.0.0.0 plugin.2easydroid.com
 0.0.0.0 a.2edd6c0fea91f88494d1cc37672db524.com
-0.0.0.0 s0.2mdn.net
 0.0.0.0 ads.2mdnsys.com
 0.0.0.0 cfa.2mdnsys.com
 0.0.0.0 static.2mdnsys.com
@@ -876,13 +875,9 @@
 0.0.0.0 ym.adnxs.com
 0.0.0.0 ym-default.adnxs.com
 0.0.0.0 t.adnxtr.com
-0.0.0.0 sp.auth.adobe.com
 0.0.0.0 pandoramedia.campaign.adobe.com
 0.0.0.0 southwest-airlines-mkt-prod1-lb.campaign.adobe.com
 0.0.0.0 sstats.adobe.com
-0.0.0.0 activation.adobedtm.com
-0.0.0.0 assets.adobedtm.com
-0.0.0.0 sslproxy-prod.adobedtm.com
 0.0.0.0 adonly.com
 0.0.0.0 adorika.net
 0.0.0.0 adserver.adotmob.com
@@ -6740,7 +6735,6 @@
 0.0.0.0 i.n.jwpltx.com
 0.0.0.0 s.n.jwpltx.com
 0.0.0.0 s.jwpltx.com
-0.0.0.0 jwpltx.com
 0.0.0.0 g.jwpsrv.com
 0.0.0.0 kadam.net
 0.0.0.0 ad.adapter.kaffnet.com
@@ -9413,7 +9407,6 @@
 0.0.0.0 onewaylinkexchange.net
 0.0.0.0 display.online-adnetwork.com
 0.0.0.0 online-dn.com
-0.0.0.0 h-sdk.online-metrix.net
 0.0.0.0 h-signifyd.online-metrix.net
 0.0.0.0 onmobile.com
 0.0.0.0 cdn.onscroll.com
@@ -12810,14 +12803,9 @@
 0.0.0.0 sa.unionstatistics.com
 0.0.0.0 tag.unionstatistics.com
 0.0.0.0 analytics.cloud.unity3d.com
-0.0.0.0 cdp.cloud.unity3d.com
 0.0.0.0 perf-events.cloud.unity3d.com
-0.0.0.0 api.uca.cloud.unity3d.com
-0.0.0.0 config.uca.cloud.unity3d.com
 0.0.0.0 data-optout-service.uca.cloud.unity3d.com
 0.0.0.0 hwstats.unity3d.com
-0.0.0.0 ecommerce.iap.unity3d.com
-0.0.0.0 events.iap.unity3d.com
 0.0.0.0 ads-game-configuration-master.ads.prd.ie.internal.unity3d.com
 0.0.0.0 tracking.prd.mz.internal.unity3d.com
 0.0.0.0 stats.unity3d.com
