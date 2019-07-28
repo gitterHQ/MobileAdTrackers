@@ -4547,6 +4547,7 @@
 0.0.0.0 dl-debug.dropbox.com
 0.0.0.0 mobile9897.drumteam99.live
 0.0.0.0 banner.dspcdn.com
+0.0.0.0 analytics.dspunion.com
 0.0.0.0 tag.dtrck.net
 0.0.0.0 t.dtscdn.com
 0.0.0.0 agentchannel.api.duapp.com
@@ -8803,6 +8804,7 @@
 0.0.0.0 dsp-vg.mobvista.com
 0.0.0.0 dsp-vg-ali.mobvista.com
 0.0.0.0 hkdsp-ali.mobvista.com
+0.0.0.0 smart.mobvista.com
 0.0.0.0 tkimpdsp.mobvista.com
 0.0.0.0 usdsp.mobvista.com
 0.0.0.0 usdsp-ali.mobvista.com
@@ -12809,6 +12811,9 @@
 0.0.0.0 tag.unionstatistics.com
 0.0.0.0 analytics.cloud.unity3d.com
 0.0.0.0 perf-events.cloud.unity3d.com
+0.0.0.0 api.uca.cloud.unity3d.com
+0.0.0.0 cdp.cloud.unity3d.com
+0.0.0.0 config.uca.cloud.unity3d.com
 0.0.0.0 data-optout-service.uca.cloud.unity3d.com
 0.0.0.0 hwstats.unity3d.com
 0.0.0.0 events.iap.unity3d.com
