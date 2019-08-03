@@ -2359,6 +2359,7 @@
 0.0.0.0 cdn.appsflyer.com
 0.0.0.0 cdnappicons.appsflyer.com
 0.0.0.0 events.appsflyer.com
+0.0.0.0 fvalid.appsflyer.com
 0.0.0.0 global.appsflyer.com
 0.0.0.0 hq.appsflyer.com
 0.0.0.0 hq1.appsflyer.com
@@ -5645,6 +5646,7 @@
 0.0.0.0 sypi.gpshopper.com
 0.0.0.0 grabify.link
 0.0.0.0 grafstat.ro
+0.0.0.0 secure.gravatar.com
 0.0.0.0 gredinatib.info
 0.0.0.0 crosspromo.greenpandagames.com
 0.0.0.0 clic.grenads.com
@@ -9052,6 +9054,7 @@
 0.0.0.0 mzbcdn.net
 0.0.0.0 n152adserv.com
 0.0.0.0 n176adserv.com
+0.0.0.0 n1275adserv.xyz
 0.0.0.0 analytics.n7mobile.com
 0.0.0.0 naiadsystems.com
 0.0.0.0 namimedia.com
@@ -9277,6 +9280,7 @@
 0.0.0.0 meter-svc.nytimes.com
 0.0.0.0 samizdat.nytimes.com
 0.0.0.0 cdn.o333o.com
+0.0.0.0 service.cmp.oath.com
 0.0.0.0 oclaserver.com
 0.0.0.0 go.oclasrv.com
 0.0.0.0 oconner.biz
@@ -9414,6 +9418,7 @@
 0.0.0.0 onewaylinkexchange.net
 0.0.0.0 display.online-adnetwork.com
 0.0.0.0 online-dn.com
+0.0.0.0 h-sdk.online-metrix.net
 0.0.0.0 h-signifyd.online-metrix.net
 0.0.0.0 onmobile.com
 0.0.0.0 cdn.onscroll.com
@@ -11554,6 +11559,7 @@
 0.0.0.0 splicky.com
 0.0.0.0 sdk.split.io
 0.0.0.0 29627a66.api.splkmobile.com
+0.0.0.0 959cad30.api.splkmobile.com
 0.0.0.0 eddd6b75.api.splkmobile.com
 0.0.0.0 fa0dcbd1.api.splkmobile.com
 0.0.0.0 api.sponsorpay.com
@@ -11606,6 +11612,7 @@
 0.0.0.0 scc.ssacdn.com
 0.0.0.0 static.ssacdn.com
 0.0.0.0 v.ssacdn.com
+0.0.0.0 www.ssacdn.com
 0.0.0.0 sscefsol.com
 0.0.0.0 retarget.ssl-services.com
 0.0.0.0 stats.ssl-services.com
@@ -12823,6 +12830,8 @@
 0.0.0.0 admediator.unityads.unity3d.com
 0.0.0.0 ads-brand-postback.unityads.unity3d.com
 0.0.0.0 adserver.unityads.unity3d.com
+0.0.0.0 cdn-creatives-highwinds-prd.unityads.unity3d.com
+0.0.0.0 cdn-store-icons-highwinds-prd.unityads.unity3d.com
 0.0.0.0 nginx-auction-prd-gcp.adsx.unityads.unity3d.com
 0.0.0.0 tracking.adsx.unityads.unity3d.com
 0.0.0.0 auction.unityads.unity3d.com
