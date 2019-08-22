@@ -1682,6 +1682,7 @@
 0.0.0.0 airpush.com
 0.0.0.0 ads.aitype.net
 0.0.0.0 pop-iad-2.cf.dash.row.aiv-cdn.net
+0.0.0.0 s3-iad-2.cf.dash.row.aiv-cdn.net
 0.0.0.0 s3-iad-ww.cf.videorolls.row.aiv-cdn.net
 0.0.0.0 jadserve.postrelease.com.akadns.net
 0.0.0.0 nycp-hlb.dvgtm.akadns.net
@@ -3317,6 +3318,7 @@
 0.0.0.0 v3.chartboost.com
 0.0.0.0 v4.chartboost.com
 0.0.0.0 v5.chartboost.com
+0.0.0.0 www.chartboost.com
 0.0.0.0 chartboost.de
 0.0.0.0 ads.chartboosts.com
 0.0.0.0 adtrack.chartboosts.com
@@ -4096,6 +4098,7 @@
 0.0.0.0 collect10422hmstr.deltadna.net
 0.0.0.0 collect10548smrfs.deltadna.net
 0.0.0.0 collect10632snprh.deltadna.net
+0.0.0.0 collect10665dd4kq.deltadna.net
 0.0.0.0 collect10776gdsnd.deltadna.net
 0.0.0.0 collect10785pkrlf.deltadna.net
 0.0.0.0 collect10791rllrc.deltadna.net
@@ -4148,6 +4151,7 @@
 0.0.0.0 collect13800frdyt.deltadna.net
 0.0.0.0 collect13869vptrt.deltadna.net
 0.0.0.0 collect13914mtch3.deltadna.net
+0.0.0.0 collect14706brkng.deltadna.net
 0.0.0.0 collect2470ntysd.deltadna.net
 0.0.0.0 collect2525bttls.deltadna.net
 0.0.0.0 collect2585gmsfw.deltadna.net
@@ -4179,6 +4183,7 @@
 0.0.0.0 engage10083vpblt.deltadna.net
 0.0.0.0 engage10422hmstr.deltadna.net
 0.0.0.0 engage10632snprh.deltadna.net
+0.0.0.0 engage10665dd4kq.deltadna.net
 0.0.0.0 engage10785pkrlf.deltadna.net
 0.0.0.0 engage10791rllrc.deltadna.net
 0.0.0.0 engage10854wrdcr.deltadna.net
@@ -5572,6 +5577,8 @@
 0.0.0.0 bo.goadservices.com
 0.0.0.0 i.goadservices.com
 0.0.0.0 goadservices.com
+0.0.0.0 iroko.gocarrot.com
+0.0.0.0 gocarrot.com
 0.0.0.0 gocdn.ru
 0.0.0.0 adlockscreen.goforandroid.com
 0.0.0.0 adpush.goforandroid.com
@@ -5890,6 +5897,7 @@
 0.0.0.0 mobile.log.hunantv.com
 0.0.0.0 mp4.res.hunantv.com
 0.0.0.0 huntmad.com
+0.0.0.0 stats.huuuge.net
 0.0.0.0 hxczzzw.com
 0.0.0.0 hyperadx.com
 0.0.0.0 api.hypertrack.com
@@ -6698,6 +6706,8 @@
 0.0.0.0 jokedollars.com
 0.0.0.0 joneself.com
 0.0.0.0 ad.jorte.com
+0.0.0.0 finlogs.joyeggs.com
+0.0.0.0 payback.joyeggs.com
 0.0.0.0 stats.jpush.cn
 0.0.0.0 jscount.com
 0.0.0.0 c.jsrdn.com
@@ -9306,6 +9316,7 @@
 0.0.0.0 wsback-track.prod.cloud.ogury.io
 0.0.0.0 wsback2b.prod.cloud.ogury.io
 0.0.0.0 wsback2c.prod.cloud.ogury.io
+0.0.0.0 consent-manager-events.ogury.io
 0.0.0.0 dsp-1.ogury.io
 0.0.0.0 wad.ojooo.com
 0.0.0.0 eventtracking.omarsys.com
@@ -10132,6 +10143,7 @@
 0.0.0.0 api.placer.io
 0.0.0.0 conf.placer.io
 0.0.0.0 planetactive.com
+0.0.0.0 2cf4.playfabapi.com
 0.0.0.0 433f.playfabapi.com
 0.0.0.0 4a24.playfabapi.com
 0.0.0.0 687c.playfabapi.com
@@ -10596,6 +10608,7 @@
 0.0.0.0 sdk.qikify.com
 0.0.0.0 data.video.qiyi.com
 0.0.0.0 meta.video.qiyi.com
+0.0.0.0 thirdwx.qlogo.cn
 0.0.0.0 lcsdk.3g.qq.com
 0.0.0.0 masdk.3g.qq.com
 0.0.0.0 mazu.3g.qq.com
