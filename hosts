@@ -108,6 +108,7 @@
 0.0.0.0 ads.midatlantic.aaa.com
 0.0.0.0 smetrics.midatlantic.aaa.com
 0.0.0.0 aarki.com
+0.0.0.0 rm.aarki.net
 0.0.0.0 hkg1.aastocks.com
 0.0.0.0 android-sdk.aatkit.com
 0.0.0.0 backup.aatkit.com
@@ -4468,6 +4469,7 @@
 0.0.0.0 googleads2.g.doubleclick.net
 0.0.0.0 googleads4.g.doubleclick.net
 0.0.0.0 pubads.g.doubleclick.net
+0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 stats.g.doubleclick.net
 0.0.0.0 survey.g.doubleclick.net
 0.0.0.0 g0.doubleclick.net
@@ -5455,6 +5457,7 @@
 0.0.0.0 getexceptional.com
 0.0.0.0 criticalmass-content.getmetrical.com
 0.0.0.0 hades.getsocial.im
+0.0.0.0 sdk.open.talk.getui.net
 0.0.0.0 getwisdom.io
 0.0.0.0 ssl.gft2.de
 0.0.0.0 sdkstat.ggsafe.com
@@ -5557,6 +5560,7 @@
 0.0.0.0 id.google.de
 0.0.0.0 adservice.google.ie
 0.0.0.0 adservice.google.nl
+0.0.0.0 ssl.google-analytics.com
 0.0.0.0 4.afs.googleadservices.com
 0.0.0.0 pagead2.googleadservices.com
 0.0.0.0 partner.googleadservices.com
@@ -5970,7 +5974,9 @@
 0.0.0.0 talk.nz.igexin.com
 0.0.0.0 amp.nz4.igexin.com
 0.0.0.0 talk.nz4.igexin.com
+0.0.0.0 sdk.open.phone.igexin.com
 0.0.0.0 talk.igexin.com
+0.0.0.0 sdk.open.talk.igexin.com
 0.0.0.0 analytics.ihbsoft.com
 0.0.0.0 sdk.ihippogame.com
 0.0.0.0 ads-chunks.prod.ihrhls.com
@@ -12604,9 +12610,11 @@
 0.0.0.0 config.uca.cloud.unity3d.com
 0.0.0.0 data-optout-service.uca.cloud.unity3d.com
 0.0.0.0 hwstats.unity3d.com
+0.0.0.0 ecommerce.iap.unity3d.com
 0.0.0.0 events.iap.unity3d.com
 0.0.0.0 ads-game-configuration-master.ads.prd.ie.internal.unity3d.com
 0.0.0.0 tracking.prd.mz.internal.unity3d.com
+0.0.0.0 stats.unity3d.com
 0.0.0.0 admediator.unityads.unity3d.com
 0.0.0.0 ads-brand-postback.unityads.unity3d.com
 0.0.0.0 adserver.unityads.unity3d.com
@@ -12884,6 +12892,7 @@
 0.0.0.0 addelivery-engine-api.voodoo-ads.io
 0.0.0.0 engine.voodoo-ads.io
 0.0.0.0 front-logs.voodoo-ads.io
+0.0.0.0 trackers.voodoo-analytics.io
 0.0.0.0 api-gdpr.voodoo-tech.io
 0.0.0.0 log.vov.vn
 0.0.0.0 concertads-configs.vox-cdn.com
