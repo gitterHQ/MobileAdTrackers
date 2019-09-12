@@ -1913,7 +1913,6 @@
 0.0.0.0 marketingkaizen.s3-eu-west-1.amazonaws.com
 0.0.0.0 sm-campaign.s3-us-west-2.amazonaws.com
 0.0.0.0 mobileanalytics.us-east-1.amazonaws.com
-0.0.0.0 pinpoint.us-east-1.amazonaws.com
 0.0.0.0 global.cmcs.service.amazonsilk.com
 0.0.0.0 api.ambelbet.com
 0.0.0.0 analytics.ambient-platform.com
@@ -5601,7 +5600,6 @@
 0.0.0.0 sypi.gpshopper.com
 0.0.0.0 grabify.link
 0.0.0.0 grafstat.ro
-0.0.0.0 secure.gravatar.com
 0.0.0.0 gredinatib.info
 0.0.0.0 crosspromo.greenpandagames.com
 0.0.0.0 clic.grenads.com
