@@ -1496,6 +1496,7 @@
 0.0.0.0 segments.adaptv.advertising.com
 0.0.0.0 sync.adaptv.advertising.com
 0.0.0.0 uplynk.adaptv.advertising.com
+0.0.0.0 video.adaptv.advertising.com
 0.0.0.0 s.update.wtag.adaptv.advertising.com
 0.0.0.0 update.wtag.adaptv.advertising.com
 0.0.0.0 adserver.adtech.advertising.com
@@ -1751,6 +1752,7 @@
 0.0.0.0 tvads.alphonso.tv
 0.0.0.0 api.altamob.com
 0.0.0.0 cdn.cloud.altbalaji.com
+0.0.0.0 data.altbeacon.org
 0.0.0.0 ads.altitude-arena.com
 0.0.0.0 altitude-arena.com
 0.0.0.0 altrooz.com
@@ -1955,6 +1957,7 @@
 0.0.0.0 thunder.amplitude.com
 0.0.0.0 amptrack-dailymail-co-uk.cdn.ampproject.org
 0.0.0.0 analytics-digit-in.cdn.ampproject.org
+0.0.0.0 c-betrad-com.cdn.ampproject.org
 0.0.0.0 metrics-cbslocal-com.cdn.ampproject.org
 0.0.0.0 assets.amung.us
 0.0.0.0 graphs.amung.us
@@ -4119,6 +4122,7 @@
 0.0.0.0 collect13914mtch3.deltadna.net
 0.0.0.0 collect14706brkng.deltadna.net
 0.0.0.0 collect2470ntysd.deltadna.net
+0.0.0.0 collect2503bttlg.deltadna.net
 0.0.0.0 collect2525bttls.deltadna.net
 0.0.0.0 collect2585gmsfw.deltadna.net
 0.0.0.0 collect2674dltcr.deltadna.net
@@ -4184,6 +4188,7 @@
 0.0.0.0 engage14052tnkrs.deltadna.net
 0.0.0.0 engage14451lghtt.deltadna.net
 0.0.0.0 engage14541skllg.deltadna.net
+0.0.0.0 engage2503bttlg.deltadna.net
 0.0.0.0 engage2674dltcr.deltadna.net
 0.0.0.0 engage3515gvrnr.deltadna.net
 0.0.0.0 engage5081wrdch.deltadna.net
@@ -4288,6 +4293,7 @@
 0.0.0.0 domob.org
 0.0.0.0 sm.domobcdn.com
 0.0.0.0 domobcdn.com
+0.0.0.0 collector.doordash.com
 0.0.0.0 bal.ad.dotandad.com
 0.0.0.0 et.ad.dotandad.com
 0.0.0.0 filecdn2.ad.dotandad.com
@@ -5970,8 +5976,8 @@
 0.0.0.0 amp.nz4.igexin.com
 0.0.0.0 talk.nz4.igexin.com
 0.0.0.0 sdk.open.phone.igexin.com
-0.0.0.0 talk.igexin.com
 0.0.0.0 sdk.open.talk.igexin.com
+0.0.0.0 talk.igexin.com
 0.0.0.0 analytics.ihbsoft.com
 0.0.0.0 sdk.ihippogame.com
 0.0.0.0 ads-chunks.prod.ihrhls.com
@@ -8866,9 +8872,9 @@
 0.0.0.0 vt.myvisualiq.net
 0.0.0.0 myvisualiq.net
 0.0.0.0 mzbcdn.net
+0.0.0.0 n1275adserv.xyz
 0.0.0.0 n152adserv.com
 0.0.0.0 n176adserv.com
-0.0.0.0 n1275adserv.xyz
 0.0.0.0 analytics.n7mobile.com
 0.0.0.0 naiadsystems.com
 0.0.0.0 namimedia.com
@@ -9052,6 +9058,7 @@
 0.0.0.0 odm.nielsen.com
 0.0.0.0 a.niholaev.com
 0.0.0.0 analytics.nike.com
+0.0.0.0 targeting.washpost.nile.works
 0.0.0.0 lciapi.ninthdecimal.com
 0.0.0.0 rtb.ninthdecimal.com
 0.0.0.0 wpvc.nitratory.com
@@ -9083,10 +9090,13 @@
 0.0.0.0 api.nrelate.com
 0.0.0.0 nspmotion.com
 0.0.0.0 logger.ntracecloud.com
+0.0.0.0 s.ntv.io
 0.0.0.0 numbers.md
 0.0.0.0 ext-notif.nuviad.com
 0.0.0.0 images.nuviad.com
 0.0.0.0 notify.nuviad.com
+0.0.0.0 pixel.nymag.com
+0.0.0.0 als-svc.nytimes.com
 0.0.0.0 meter-svc.nytimes.com
 0.0.0.0 cdn.o333o.com
 0.0.0.0 service.cmp.oath.com
@@ -9183,6 +9193,7 @@
 0.0.0.0 gannett.hb.omtrdc.net
 0.0.0.0 audible.sc.omtrdc.net
 0.0.0.0 dsg.sc.omtrdc.net
+0.0.0.0 nbcume.sc.omtrdc.net
 0.0.0.0 southwestairlines.sc.omtrdc.net
 0.0.0.0 audible.tt.omtrdc.net
 0.0.0.0 mboxedge17.tt.omtrdc.net
@@ -10496,6 +10507,7 @@
 0.0.0.0 c.quantserve.com
 0.0.0.0 cms.quantserve.com
 0.0.0.0 content.quantserve.com
+0.0.0.0 edge.quantserve.com
 0.0.0.0 eu-pulsepoint-rtb.quantserve.com
 0.0.0.0 exch.quantserve.com
 0.0.0.0 flash.quantserve.com
@@ -12597,9 +12609,9 @@
 0.0.0.0 sa.unionstatistics.com
 0.0.0.0 tag.unionstatistics.com
 0.0.0.0 analytics.cloud.unity3d.com
+0.0.0.0 cdp.cloud.unity3d.com
 0.0.0.0 perf-events.cloud.unity3d.com
 0.0.0.0 api.uca.cloud.unity3d.com
-0.0.0.0 cdp.cloud.unity3d.com
 0.0.0.0 config.uca.cloud.unity3d.com
 0.0.0.0 data-optout-service.uca.cloud.unity3d.com
 0.0.0.0 hwstats.unity3d.com
@@ -12611,13 +12623,13 @@
 0.0.0.0 admediator.unityads.unity3d.com
 0.0.0.0 ads-brand-postback.unityads.unity3d.com
 0.0.0.0 adserver.unityads.unity3d.com
-0.0.0.0 cdn-creatives-highwinds-prd.unityads.unity3d.com
-0.0.0.0 cdn-store-icons-highwinds-prd.unityads.unity3d.com
 0.0.0.0 nginx-auction-prd-gcp.adsx.unityads.unity3d.com
 0.0.0.0 tracking.adsx.unityads.unity3d.com
 0.0.0.0 auction.unityads.unity3d.com
 0.0.0.0 cdn.unityads.unity3d.com
+0.0.0.0 cdn-creatives-highwinds-prd.unityads.unity3d.com
 0.0.0.0 cdn-highwinds.unityads.unity3d.com
+0.0.0.0 cdn-store-icons-highwinds-prd.unityads.unity3d.com
 0.0.0.0 china-cdn3.unityads.unity3d.com
 0.0.0.0 config.unityads.unity3d.com
 0.0.0.0 geocdn.unityads.unity3d.com
@@ -12707,6 +12719,7 @@
 0.0.0.0 srepdata.usatoday.com
 0.0.0.0 sdk.out.usbla.net
 0.0.0.0 analytics.usdm.net
+0.0.0.0 api.usebutton.com
 0.0.0.0 web.usebutton.com
 0.0.0.0 segment.api.useinsider.com
 0.0.0.0 mobileanalytics.useinsider.com
@@ -13150,6 +13163,7 @@
 0.0.0.0 xz15801.com
 0.0.0.0 ads.yahoo.com
 0.0.0.0 global.adserver.yahoo.com
+0.0.0.0 us.adserver.yahoo.com
 0.0.0.0 adserver.yahoo.com
 0.0.0.0 br.adspecs.yahoo.com
 0.0.0.0 latam.adspecs.yahoo.com
