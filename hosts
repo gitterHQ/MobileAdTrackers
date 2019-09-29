@@ -5090,7 +5090,9 @@
 0.0.0.0 fastmap33.com
 0.0.0.0 affiliate.fb88.com
 0.0.0.0 fb88.com
+0.0.0.0 external.xx.fbcdn.net
 0.0.0.0 sonar-iad.xx.fbcdn.net
+0.0.0.0 graph.fbpigeon.com
 0.0.0.0 affiliate.fc2.com
 0.0.0.0 aimg.fc2.com
 0.0.0.0 enrichmentservices.fccinteractive.com
@@ -9955,10 +9957,6 @@
 0.0.0.0 api.placer.io
 0.0.0.0 conf.placer.io
 0.0.0.0 planetactive.com
-0.0.0.0 2cf4.playfabapi.com
-0.0.0.0 433f.playfabapi.com
-0.0.0.0 4a24.playfabapi.com
-0.0.0.0 687c.playfabapi.com
 0.0.0.0 playhaven.com
 0.0.0.0 playnomics.net
 0.0.0.0 sdkweb.playstove.com
