@@ -1762,9 +1762,6 @@
 0.0.0.0 aax-us-iad.amazon.com
 0.0.0.0 aax.amazon-adsystem.amazon.com
 0.0.0.0 c9-personalized-ads-service-na.amazon.com
-0.0.0.0 device-metrics-us.amazon.com
-0.0.0.0 device-metrics-us-2.amazon.com
-0.0.0.0 device-metrics-us-ud.amazon.com
 0.0.0.0 mads.amazon.com
 0.0.0.0 mads-eu.amazon.com
 0.0.0.0 mas-sdk.amazon.com
@@ -5631,19 +5628,6 @@
 0.0.0.0 api.growthpush.com
 0.0.0.0 grt02.com
 0.0.0.0 grt03.com
-0.0.0.0 bceliveup.gshifen.com
-0.0.0.0 bcelivevip.gshifen.com
-0.0.0.0 box.gshifen.com
-0.0.0.0 dl2-bav.gshifen.com
-0.0.0.0 duapps-photos-adv.gshifen.com
-0.0.0.0 hiphotos.gshifen.com
-0.0.0.0 mbdcdn.gshifen.com
-0.0.0.0 mipcache.gshifen.com
-0.0.0.0 motu.gshifen.com
-0.0.0.0 opencdnglobal.gshifen.com
-0.0.0.0 simage.gshifen.com
-0.0.0.0 simagestatic.gshifen.com
-0.0.0.0 sslshare.gshifen.com
 0.0.0.0 gsmtop.net
 0.0.0.0 www1.gto-media.com
 0.0.0.0 gtop.ro
@@ -6417,7 +6401,6 @@
 0.0.0.0 cloud.internetstores.com
 0.0.0.0 interseek.si
 0.0.0.0 intowow.com
-0.0.0.0 api.intsig.net
 0.0.0.0 inuvi.com
 0.0.0.0 lander.inuvo.com
 0.0.0.0 investingapp.net
@@ -7794,7 +7777,6 @@
 0.0.0.0 video-cdn.mgid.com
 0.0.0.0 youtrack.mgid.com
 0.0.0.0 ad.mi.com
-0.0.0.0 api.io.mi.com
 0.0.0.0 cm.cn.miaozhen.com
 0.0.0.0 e.cn.miaozhen.com
 0.0.0.0 g.cn.miaozhen.com
@@ -12707,8 +12689,6 @@
 0.0.0.0 srepdata.usatoday.com
 0.0.0.0 sdk.out.usbla.net
 0.0.0.0 analytics.usdm.net
-0.0.0.0 api.usebutton.com
-0.0.0.0 web.usebutton.com
 0.0.0.0 segment.api.useinsider.com
 0.0.0.0 mobileanalytics.useinsider.com
 0.0.0.0 usekahuna.com
@@ -13369,7 +13349,6 @@
 0.0.0.0 shop.zalo.me
 0.0.0.0 ads.zaloapp.com
 0.0.0.0 log.api.zaloapp.com
-0.0.0.0 api.zaloapp.com
 0.0.0.0 events.zaloapp.com
 0.0.0.0 static-ads.zaloapp.com
 0.0.0.0 stats.zaloapp.com
