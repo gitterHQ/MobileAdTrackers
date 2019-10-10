@@ -1765,10 +1765,8 @@
 0.0.0.0 aax-us-iad.amazon.com
 0.0.0.0 aax.amazon-adsystem.amazon.com
 0.0.0.0 c9-personalized-ads-service-na.amazon.com
-0.0.0.0 dcape-na.amazon.com
 0.0.0.0 device-metrics-us.amazon.com
 0.0.0.0 device-metrics-us-2.amazon.com
-0.0.0.0 fls-na.amazon.com
 0.0.0.0 mads.amazon.com
 0.0.0.0 mads-eu.amazon.com
 0.0.0.0 mas-sdk.amazon.com
@@ -5036,8 +5034,6 @@
 0.0.0.0 maven.fabric.io
 0.0.0.0 fabric.io
 0.0.0.0 an.facebook.com
-0.0.0.0 b-api.facebook.com
-0.0.0.0 b-graph.facebook.com
 0.0.0.0 error.facebook.com
 0.0.0.0 lithium.facebook.com
 0.0.0.0 lookaside.facebook.com
