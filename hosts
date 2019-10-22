@@ -1743,7 +1743,6 @@
 0.0.0.0 a1843.g.akamai.net
 0.0.0.0 a50.g2.akamai.net
 0.0.0.0 a1294.w20.akamai.net
-0.0.0.0 e8218.dscb1.akamaiedge.net
 0.0.0.0 e7876.dscg.akamaiedge.net
 0.0.0.0 appnext-a.akamaihd.net
 0.0.0.0 cloudads-a.akamaihd.net
@@ -1907,8 +1906,6 @@
 0.0.0.0 aax-us-iad.amazon.com
 0.0.0.0 aax.amazon-adsystem.amazon.com
 0.0.0.0 c9-personalized-ads-service-na.amazon.com
-0.0.0.0 device-metrics-us.amazon.com
-0.0.0.0 device-metrics-us-2.amazon.com
 0.0.0.0 mads.amazon.com
 0.0.0.0 mads-eu.amazon.com
 0.0.0.0 mas-sdk.amazon.com
@@ -2078,7 +2075,6 @@
 0.0.0.0 config.analytics.anvato.net
 0.0.0.0 rt.analytics.anvato.net
 0.0.0.0 analytics.any.do
-0.0.0.0 o.aolcdn.com
 0.0.0.0 tkcatwalk.aotter.net
 0.0.0.0 tkmedia.aotter.net
 0.0.0.0 tkmedia-cache.aotter.net
@@ -2880,7 +2876,6 @@
 0.0.0.0 network.bazaarvoice.com
 0.0.0.0 apps.nexus.bazaarvoice.com
 0.0.0.0 analytics-static.ugc.bazaarvoice.com
-0.0.0.0 display.ugc.bazaarvoice.com
 0.0.0.0 flagpoles.gnl-live.bbcverticals.com
 0.0.0.0 bcfads.com
 0.0.0.0 bcmediagroup.com
@@ -2962,7 +2957,6 @@
 0.0.0.0 ads.bing.com
 0.0.0.0 adserver.bing.com
 0.0.0.0 bat.bing.com
-0.0.0.0 c.bing.com
 0.0.0.0 bitcheese.net
 0.0.0.0 a.bitmango.com
 0.0.0.0 api.bitmango.com
@@ -3532,7 +3526,6 @@
 0.0.0.0 fm.cnbc.com
 0.0.0.0 mps.cnbc.com
 0.0.0.0 agility.cnn.com
-0.0.0.0 data.cnn.com
 0.0.0.0 mms.cnn.com
 0.0.0.0 sdc.cnn.com
 0.0.0.0 smetrics.cnn.com
@@ -4165,9 +4158,7 @@
 0.0.0.0 directrev.com
 0.0.0.0 tracking.directservices.it
 0.0.0.0 clktrk.display.io
-0.0.0.0 referrer.disqus.com
 0.0.0.0 glitter.services.disqus.com
-0.0.0.0 realtime.services.disqus.com
 0.0.0.0 tempest.services.disqus.com
 0.0.0.0 disqusads.com
 0.0.0.0 prebid.districtm.ca
@@ -5380,7 +5371,6 @@
 0.0.0.0 sightings.gimbal.com
 0.0.0.0 cdn.gimbal.tech
 0.0.0.0 stats.gioneemobile.net
-0.0.0.0 collector.githubapp.com
 0.0.0.0 sidecar.gitter.im
 0.0.0.0 cdn.gladly.com
 0.0.0.0 production1.gladly.com
@@ -5484,7 +5474,6 @@
 0.0.0.0 static.googleadsserving.cn
 0.0.0.0 clientmetrics-pa.googleapis.com
 0.0.0.0 ad-creatives-public.commondatastorage.googleapis.com
-0.0.0.0 imasdk.googleapis.com
 0.0.0.0 badad.googleplex.com
 0.0.0.0 ade.googlesyndication.com
 0.0.0.0 buttons.googlesyndication.com
@@ -5759,7 +5748,6 @@
 0.0.0.0 engage.hulu.com
 0.0.0.0 t2.hulu.com
 0.0.0.0 vortex.hulu.com
-0.0.0.0 ads-e-darwin.hulustream.com
 0.0.0.0 humandemand.com
 0.0.0.0 mobile.log.hunantv.com
 0.0.0.0 mp4.res.hunantv.com
@@ -7478,7 +7466,6 @@
 0.0.0.0 maudau.com
 0.0.0.0 device.maxmind.com
 0.0.0.0 geoip.maxmind.com
-0.0.0.0 js.maxmind.com
 0.0.0.0 maxonclick.com
 0.0.0.0 service.maxymiser.net
 0.0.0.0 mbn.com.ua
@@ -9250,8 +9237,6 @@
 0.0.0.0 latest.app.optimizely.com
 0.0.0.0 rc.app.optimizely.com
 0.0.0.0 stable.app.optimizely.com
-0.0.0.0 cdn.optimizely.com
-0.0.0.0 oui.cdn.optimizely.com
 0.0.0.0 cdn-a2-ncl.optimizely.com
 0.0.0.0 cdn-edgecast.optimizely.com
 0.0.0.0 cdn-pci.optimizely.com
@@ -9514,7 +9499,6 @@
 0.0.0.0 v8files-cf.pinsightmedia.com
 0.0.0.0 ads.pinterest.com
 0.0.0.0 analytics.pinterest.com
-0.0.0.0 assets.pinterest.com
 0.0.0.0 ct.pinterest.com
 0.0.0.0 log.pinterest.com
 0.0.0.0 trk.pinterest.com
@@ -9584,7 +9568,6 @@
 0.0.0.0 html.polyad.net
 0.0.0.0 st.html.polyad.net
 0.0.0.0 st.polyad.net
-0.0.0.0 cdn.polyfill.io
 0.0.0.0 polymob.com
 0.0.0.0 pontiflex.com
 0.0.0.0 analytics.poolshool.com
@@ -10442,7 +10425,6 @@
 0.0.0.0 ad.scanmedios.com
 0.0.0.0 audio-gc.scdn.co
 0.0.0.0 heads-fa.scdn.co
-0.0.0.0 upgrade.scdn.co
 0.0.0.0 video-fa.scdn.co
 0.0.0.0 schibsted.com
 0.0.0.0 aboutme.schibsted.com
@@ -12087,10 +12069,8 @@
 0.0.0.0 sdkgw.us1.twilio.com
 0.0.0.0 gts-ads.twistbox.com
 0.0.0.0 client-event-reporter.twitch.tv
-0.0.0.0 countess.twitch.tv
 0.0.0.0 deviceidshare.twitch.tv
 0.0.0.0 fan.twitch.tv
-0.0.0.0 spade.twitch.tv
 0.0.0.0 trowel.twitch.tv
 0.0.0.0 ads.twitter.com
 0.0.0.0 ads-bidder-api.twitter.com
@@ -12664,7 +12644,6 @@
 0.0.0.0 sdk.wesdk.co
 0.0.0.0 track.wesdk.co
 0.0.0.0 track.wesell.co.il
-0.0.0.0 triggers.wfxtriggers.com
 0.0.0.0 crashlogs.whatsapp.net
 0.0.0.0 hosted.where2getit.com
 0.0.0.0 whereapps.com
@@ -12835,7 +12814,6 @@
 0.0.0.0 analytics.query.yahoo.com
 0.0.0.0 geo.query.yahoo.com
 0.0.0.0 onepush.query.yahoo.com
-0.0.0.0 udc.yahoo.com
 0.0.0.0 bats.video.yahoo.com
 0.0.0.0 visit.webhosting.yahoo.com
 0.0.0.0 ads.yap.yahoo.com
@@ -12994,7 +12972,6 @@
 0.0.0.0 ads.youtube.com
 0.0.0.0 sdk-api.yozio.com
 0.0.0.0 adsolutions.yp.com
-0.0.0.0 i1.ytimg.com
 0.0.0.0 yuhuads.com
 0.0.0.0 yuilop.com
 0.0.0.0 yume.com
