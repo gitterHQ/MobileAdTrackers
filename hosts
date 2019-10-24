@@ -919,7 +919,6 @@
 0.0.0.0 pandoramedia.campaign.adobe.com
 0.0.0.0 southwest-airlines-mkt-prod1-lb.campaign.adobe.com
 0.0.0.0 sstats.adobe.com
-0.0.0.0 assets.adobedtm.com
 0.0.0.0 adonly.com
 0.0.0.0 adorika.net
 0.0.0.0 adserver.adotmob.com
@@ -9364,7 +9363,6 @@
 0.0.0.0 go.padstm.com
 0.0.0.0 asset.pagefair.com
 0.0.0.0 asset.pagefair.net
-0.0.0.0 pagerank-ranking.com
 0.0.0.0 pagerank-server7.de
 0.0.0.0 pagerank-suchmaschine.de
 0.0.0.0 www.sc.pages03.net
