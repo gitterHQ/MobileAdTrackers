@@ -1870,6 +1870,7 @@
 0.0.0.0 ir-uk.amazon-adsystem.com
 0.0.0.0 mads.amazon-adsystem.com
 0.0.0.0 mas-sdk.amazon-adsystem.com
+0.0.0.0 s2ssignal.neustar.amazon-adsystem.com
 0.0.0.0 ps-eu.amazon-adsystem.com
 0.0.0.0 ps-jp.amazon-adsystem.com
 0.0.0.0 ps-us.amazon-adsystem.com
@@ -1968,6 +1969,7 @@
 0.0.0.0 later-analytics-reports.s3-accelerate.amazonaws.com
 0.0.0.0 marketingkaizen.s3-eu-west-1.amazonaws.com
 0.0.0.0 sm-campaign.s3-us-west-2.amazonaws.com
+0.0.0.0 kinesis.us-east-1.amazonaws.com
 0.0.0.0 mobileanalytics.us-east-1.amazonaws.com
 0.0.0.0 pinpoint.us-east-1.amazonaws.com
 0.0.0.0 global.cmcs.service.amazonsilk.com
@@ -4012,6 +4014,7 @@
 0.0.0.0 collect13914mtch3.deltadna.net
 0.0.0.0 collect14112tlnts.deltadna.net
 0.0.0.0 collect14706brkng.deltadna.net
+0.0.0.0 collect15099mrbll.deltadna.net
 0.0.0.0 collect2470ntysd.deltadna.net
 0.0.0.0 collect2503bttlg.deltadna.net
 0.0.0.0 collect2525bttls.deltadna.net
@@ -4079,6 +4082,8 @@
 0.0.0.0 engage14112tlnts.deltadna.net
 0.0.0.0 engage14451lghtt.deltadna.net
 0.0.0.0 engage14541skllg.deltadna.net
+0.0.0.0 engage15099mrbll.deltadna.net
+0.0.0.0 engage15969nkncv.deltadna.net
 0.0.0.0 engage2503bttlg.deltadna.net
 0.0.0.0 engage2674dltcr.deltadna.net
 0.0.0.0 engage3515gvrnr.deltadna.net
@@ -4136,6 +4141,7 @@
 0.0.0.0 tags.deployads.com
 0.0.0.0 tags-cdn.deployads.com
 0.0.0.0 tracking.deskadsserver.com
+0.0.0.0 api.destinationrewards.com
 0.0.0.0 cdn.destinilocators.com
 0.0.0.0 balancer.devtodev.com
 0.0.0.0 statgw.devtodev.com
@@ -4726,6 +4732,7 @@
 0.0.0.0 elblogdelnarco.com
 0.0.0.0 elephantdata.net
 0.0.0.0 eltrafiko.com
+0.0.0.0 i.marketing01.email-allstate.com
 0.0.0.0 cpisvr.emarbox.com
 0.0.0.0 msspjh.emarbox.com
 0.0.0.0 mssplog.emarbox.com
@@ -5411,6 +5418,8 @@
 0.0.0.0 globalismedia.com
 0.0.0.0 glossom.co.jp
 0.0.0.0 servicelocator.dh16.prod.glu-wa.com
+0.0.0.0 prd1.personalization.centech.glulive.com
+0.0.0.0 prd1.revid.centech.glulive.com
 0.0.0.0 api.glympse.com
 0.0.0.0 motd.api.glympse.com
 0.0.0.0 viewer.content.glympse.com
@@ -5750,6 +5759,7 @@
 0.0.0.0 mob.huimee.net
 0.0.0.0 ads-v-darwin.hulu.com
 0.0.0.0 doppler.hulu.com
+0.0.0.0 engage.hulu.com
 0.0.0.0 t2.hulu.com
 0.0.0.0 vortex.hulu.com
 0.0.0.0 humandemand.com
@@ -10703,6 +10713,7 @@
 0.0.0.0 api.icmobile.singlewire.com
 0.0.0.0 singular.net
 0.0.0.0 i.singular.net
+0.0.0.0 sdk-api-v1.singular.net
 0.0.0.0 t.singular.net
 0.0.0.0 sinoa.com
 0.0.0.0 api.instalatorhbogo.siroccomobile.com
