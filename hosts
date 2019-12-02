@@ -10269,9 +10269,6 @@
 0.0.0.0 sbs-ad.com
 0.0.0.0 sc-static.net
 0.0.0.0 ad.scanmedios.com
-0.0.0.0 audio-gc.scdn.co
-0.0.0.0 heads-fa.scdn.co
-0.0.0.0 video-fa.scdn.co
 0.0.0.0 schibsted.com
 0.0.0.0 aboutme.schibsted.com
 0.0.0.0 cdn-yams.schibsted.com
@@ -12195,7 +12192,6 @@
 0.0.0.0 ads.viber.com
 0.0.0.0 ads-d.viber.com
 0.0.0.0 ads.aws.viber.com
-0.0.0.0 share.cdn.viber.com
 0.0.0.0 um.videmob.com
 0.0.0.0 ads.videoadex.com
 0.0.0.0 ads-secure.videohub.tv
