@@ -8357,7 +8357,6 @@
 0.0.0.0 newonads.com
 0.0.0.0 alerts.newrelic.com
 0.0.0.0 api.newrelic.com
-0.0.0.0 apt.newrelic.com
 0.0.0.0 br.newrelic.com
 0.0.0.0 collector.newrelic.com
 0.0.0.0 collector-001.newrelic.com
