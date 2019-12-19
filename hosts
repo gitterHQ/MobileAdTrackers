@@ -3551,8 +3551,6 @@
 0.0.0.0 t.cr-nielsen.com
 0.0.0.0 crasheye.cn
 0.0.0.0 api.crashlytics.com
-0.0.0.0 apps.crashlytics.com
-0.0.0.0 apps-ios.crashlytics.com
 0.0.0.0 cm.crashlytics.com
 0.0.0.0 e.crashlytics.com
 0.0.0.0 kits.crashlytics.com
