@@ -6195,10 +6195,6 @@
 0.0.0.0 ci-first.iovation.com
 0.0.0.0 ci-mpsnare.iovation.com
 0.0.0.0 first.iovation.com
-0.0.0.0 ip-api.com
-0.0.0.0 a.ip-api.com
-0.0.0.0 fp.ip-api.com
-0.0.0.0 us-mo-1.free.ip-api.com
 0.0.0.0 logservices.ipass.com
 0.0.0.0 om-datacollector.ipass.com
 0.0.0.0 4q.iperceptions.com
@@ -6211,7 +6207,6 @@
 0.0.0.0 post.iperceptions.com
 0.0.0.0 sd.iperceptions.com
 0.0.0.0 universal.iperceptions.com
-0.0.0.0 api.ipgeolocation.io
 0.0.0.0 ipinyou.com
 0.0.0.0 cm.ipinyou.com
 0.0.0.0 fm.ipinyou.com
@@ -7301,8 +7296,6 @@
 0.0.0.0 vpaid.mathtag.com
 0.0.0.0 matomy.com
 0.0.0.0 maudau.com
-0.0.0.0 device.maxmind.com
-0.0.0.0 geoip.maxmind.com
 0.0.0.0 maxonclick.com
 0.0.0.0 service.maxymiser.net
 0.0.0.0 mbn.com.ua
@@ -8311,7 +8304,6 @@
 0.0.0.0 apinas.nct.vn
 0.0.0.0 nearbyad.com
 0.0.0.0 sdk.stat.foreign.nearme.com.cn
-0.0.0.0 geoip.nekudo.com
 0.0.0.0 nend.net
 0.0.0.0 neoban.su
 0.0.0.0 nervoussummer.com
