@@ -8368,9 +8368,7 @@
 0.0.0.0 collector-009.newrelic.com
 0.0.0.0 collector-010.newrelic.com
 0.0.0.0 collector-pool.newrelic.com
-0.0.0.0 service.eu.newrelic.com
 0.0.0.0 insights-collector.newrelic.com
-0.0.0.0 ir.newrelic.com
 0.0.0.0 marketing-contents.newrelic.com
 0.0.0.0 mobile-collector.newrelic.com
 0.0.0.0 mobile-crash.newrelic.com
@@ -8379,7 +8377,6 @@
 0.0.0.0 platform-api.newrelic.com
 0.0.0.0 staging-custom-event-inserter.newrelic.com
 0.0.0.0 staging-insights-collector.newrelic.com
-0.0.0.0 synthetics.newrelic.com
 0.0.0.0 newsnet.in.ua
 0.0.0.0 nex8.net
 0.0.0.0 nexac.com
