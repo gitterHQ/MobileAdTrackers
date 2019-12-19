@@ -8354,7 +8354,6 @@
 0.0.0.0 static.wpm.neustar.biz
 0.0.0.0 neweggstats.com
 0.0.0.0 newonads.com
-0.0.0.0 alerts.newrelic.com
 0.0.0.0 api.newrelic.com
 0.0.0.0 br.newrelic.com
 0.0.0.0 collector.newrelic.com
@@ -8369,9 +8368,7 @@
 0.0.0.0 collector-009.newrelic.com
 0.0.0.0 collector-010.newrelic.com
 0.0.0.0 collector-pool.newrelic.com
-0.0.0.0 download.newrelic.com
 0.0.0.0 service.eu.newrelic.com
-0.0.0.0 insights.newrelic.com
 0.0.0.0 insights-collector.newrelic.com
 0.0.0.0 ir.newrelic.com
 0.0.0.0 marketing-contents.newrelic.com
@@ -8380,14 +8377,9 @@
 0.0.0.0 mobile-crash-origin.newrelic.com
 0.0.0.0 mobile-symbol-upload.newrelic.com
 0.0.0.0 platform-api.newrelic.com
-0.0.0.0 rpm.newrelic.com
-0.0.0.0 rpm-images.newrelic.com
 0.0.0.0 staging-custom-event-inserter.newrelic.com
 0.0.0.0 staging-insights-collector.newrelic.com
-0.0.0.0 staging-service.newrelic.com
-0.0.0.0 status.newrelic.com
 0.0.0.0 synthetics.newrelic.com
-0.0.0.0 yum.newrelic.com
 0.0.0.0 newsnet.in.ua
 0.0.0.0 nex8.net
 0.0.0.0 nexac.com
