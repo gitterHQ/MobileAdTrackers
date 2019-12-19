@@ -5292,9 +5292,6 @@
 0.0.0.0 servicelocator.dh16.prod.glu-wa.com
 0.0.0.0 prd1.personalization.centech.glulive.com
 0.0.0.0 prd1.revid.centech.glulive.com
-0.0.0.0 api.glympse.com
-0.0.0.0 motd.api.glympse.com
-0.0.0.0 viewer.content.glympse.com
 0.0.0.0 ads.gmodules.com
 0.0.0.0 gmossp-sp.jp
 0.0.0.0 a.gmtrack.com
