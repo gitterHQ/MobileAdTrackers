@@ -3033,7 +3033,6 @@
 0.0.0.0 select.brealtime.com
 0.0.0.0 brickandmobile.com
 0.0.0.0 analytics-prod-ingress.bricknet.com
-0.0.0.0 apiv2.bricknet.com
 0.0.0.0 ads.bridgebase.com
 0.0.0.0 adserver.bridgebase.com
 0.0.0.0 ads.bridgetrack.com
