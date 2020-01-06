@@ -74,7 +74,6 @@
 0.0.0.0 us-west-tlx.3lift.com
 0.0.0.0 4dle.info
 0.0.0.0 4dsply.com
-0.0.0.0 a.4ee395e5b8a076c7bd8592851ff8cad.com
 0.0.0.0 4mads.com
 0.0.0.0 4seeresults.com
 0.0.0.0 controller.4seeresults.com
@@ -118,7 +117,6 @@
 0.0.0.0 backup.aatkit.com
 0.0.0.0 dbmaster.aatkit.com
 0.0.0.0 reporting.aatkit.com
-0.0.0.0 revenuetool.aatkit.com
 0.0.0.0 admintool.revenuetool.aatkit.com
 0.0.0.0 rules.aatkit.com
 0.0.0.0 rules2.aatkit.com
@@ -396,11 +394,9 @@
 0.0.0.0 wall.adgaterewards.com
 0.0.0.0 adgear.com
 0.0.0.0 a.adgear.com
-0.0.0.0 lga-delivery-10.sys.adgear.com
 0.0.0.0 lga-delivery-7.sys.adgear.com
 0.0.0.0 lga-delivery-8.sys.adgear.com
 0.0.0.0 lga-delivery-9.sys.adgear.com
-0.0.0.0 sjc-delivery-10.sys.adgear.com
 0.0.0.0 sjc-delivery-7.sys.adgear.com
 0.0.0.0 sjc-delivery-8.sys.adgear.com
 0.0.0.0 sjc-delivery-9.sys.adgear.com
@@ -1631,8 +1627,6 @@
 0.0.0.0 sg01.adywind.com
 0.0.0.0 us01.adywind.com
 0.0.0.0 adz.mobi
-0.0.0.0 action.adzcore.com
-0.0.0.0 click.adzcore.com
 0.0.0.0 setting.adzcore.com
 0.0.0.0 adzerk.com
 0.0.0.0 adzerk.net
@@ -1647,7 +1641,6 @@
 0.0.0.0 met.adzmobi.com
 0.0.0.0 mob.adzmobi.com
 0.0.0.0 adztec.com
-0.0.0.0 api.ae888.com
 0.0.0.0 ads.aerserv.com
 0.0.0.0 alpha-events.aerserv.com
 0.0.0.0 dmp.aerserv.com
@@ -2558,7 +2551,6 @@
 0.0.0.0 cdn.ayads.co
 0.0.0.0 cdno.ayads.co
 0.0.0.0 geoworker.ayads.co
-0.0.0.0 gkng.ayads.co
 0.0.0.0 optchk.ayads.co
 0.0.0.0 pbjs.ayads.co
 0.0.0.0 sac.ayads.co
@@ -2744,7 +2736,6 @@
 0.0.0.0 a.be190691ee4296b5bcff708f97100c09.com
 0.0.0.0 a.be74465973a07d9e41423b3f82c69aad.com
 0.0.0.0 api.beaconforstore.com
-0.0.0.0 api.beaconinside.com
 0.0.0.0 api.beacons.technology
 0.0.0.0 api.beaconsinspace.com
 0.0.0.0 api.beaconstreetservices.com
@@ -3295,7 +3286,6 @@
 0.0.0.0 elinkeu.clickdimensions.com
 0.0.0.0 files.clickdimensions.com
 0.0.0.0 files-eu.clickdimensions.com
-0.0.0.0 beacon.clickequations.net
 0.0.0.0 clickfuse.com
 0.0.0.0 cdn.clickfuse.com
 0.0.0.0 clickhubs.com
@@ -3825,7 +3815,6 @@
 0.0.0.0 collect12837lgcyf.deltadna.net
 0.0.0.0 collect12897ptclp.deltadna.net
 0.0.0.0 collect12981wrdfl.deltadna.net
-0.0.0.0 collect13176vphrt.deltadna.net
 0.0.0.0 collect13245rnrnd.deltadna.net
 0.0.0.0 collect13257lvrnn.deltadna.net
 0.0.0.0 collect13353pldns.deltadna.net
@@ -4019,7 +4008,6 @@
 0.0.0.0 collector.doordash.com
 0.0.0.0 dotandad.com
 0.0.0.0 bal.ad.dotandad.com
-0.0.0.0 et.ad.dotandad.com
 0.0.0.0 filecdn2.ad.dotandad.com
 0.0.0.0 ssl.ad.dotandad.com
 0.0.0.0 dotomi.com
@@ -4506,7 +4494,6 @@
 0.0.0.0 anagog-services-prod.us-east-1.elasticbeanstalk.com
 0.0.0.0 anagogpoi.us-east-1.elasticbeanstalk.com
 0.0.0.0 anagogreversegeocodingapi.us-east-1.elasticbeanstalk.com
-0.0.0.0 anagogw.us-east-1.elasticbeanstalk.com
 0.0.0.0 analytics-ext-prod.us-east-1.elasticbeanstalk.com
 0.0.0.0 poole-collector-prod.bnsqc3zmvt.us-east-1.elasticbeanstalk.com
 0.0.0.0 cbola-ads-1-t3.us-east-1.elasticbeanstalk.com
@@ -4526,7 +4513,6 @@
 0.0.0.0 mobiletracker-env.us-east-1.elasticbeanstalk.com
 0.0.0.0 personalization-production.us-east-1.elasticbeanstalk.com
 0.0.0.0 pg-mobileservice.us-east-1.elasticbeanstalk.com
-0.0.0.0 prod-tracking-api.us-east-1.elasticbeanstalk.com
 0.0.0.0 recommendation-collector-v1.us-east-1.elasticbeanstalk.com
 0.0.0.0 recommendations-prod.us-east-1.elasticbeanstalk.com
 0.0.0.0 scratch-telemetry-s.us-east-1.elasticbeanstalk.com
@@ -4802,7 +4788,6 @@
 0.0.0.0 tapdaq-adverts.global.ssl.fastly.net
 0.0.0.0 m.ssl.fastly.net
 0.0.0.0 dualstack.f2.shared.us-eu.fastly.net
-0.0.0.0 fastmap33.com
 0.0.0.0 fb88.com
 0.0.0.0 affiliate.fb88.com
 0.0.0.0 sonar-iad.xx.fbcdn.net
@@ -5015,10 +5000,8 @@
 0.0.0.0 mediaxds.fuse-ad.com
 0.0.0.0 pokkt.fuse-ad.com
 0.0.0.0 use-tr01.fuse-ad.com
-0.0.0.0 ads.fusepowered.com
 0.0.0.0 adztar.fusetracking.com
 0.0.0.0 braverymob.fusetracking.com
-0.0.0.0 cu-tr01.fusetracking.com
 0.0.0.0 leanmobi.fusetracking.com
 0.0.0.0 fwmrm.net
 0.0.0.0 adm.fwmrm.net
@@ -5230,7 +5213,6 @@
 0.0.0.0 i.goadservices.com
 0.0.0.0 gocarrot.com
 0.0.0.0 iroko.gocarrot.com
-0.0.0.0 gocdn.ru
 0.0.0.0 adlockscreen.goforandroid.com
 0.0.0.0 adpush.goforandroid.com
 0.0.0.0 adpushsdk.goforandroid.com
@@ -5456,12 +5438,8 @@
 0.0.0.0 hexagon-analytics.com
 0.0.0.0 sdk.hexia.io
 0.0.0.0 heywire.com
-0.0.0.0 ads.heyzap.com
-0.0.0.0 android.heyzap.com
 0.0.0.0 fyc.heyzap.com
 0.0.0.0 med.heyzap.com
-0.0.0.0 sdk.heyzap.com
-0.0.0.0 x.heyzap.com
 0.0.0.0 hfc195b.com
 0.0.0.0 tracker.hgads.net
 0.0.0.0 hghit.com
@@ -6035,7 +6013,6 @@
 0.0.0.0 a.integral-marketing.com
 0.0.0.0 bid.integral-marketing.com
 0.0.0.0 hook.integromat.com
-0.0.0.0 track.intelliadx.com
 0.0.0.0 intellilinks.com
 0.0.0.0 log.intellimize.co
 0.0.0.0 intely.cn
@@ -6864,8 +6841,6 @@
 0.0.0.0 glsdk.logsss.com
 0.0.0.0 id-generator.logsss.com
 0.0.0.0 ma.logsss.com
-0.0.0.0 perf.logsss.com
-0.0.0.0 rum.logsss.com
 0.0.0.0 slapi-bts.logsss.com
 0.0.0.0 ad.lomadee.com
 0.0.0.0 redir.lomadee.com
@@ -8172,7 +8147,6 @@
 0.0.0.0 elonezet.netadclick.com
 0.0.0.0 static.netadclick.com
 0.0.0.0 netavenir.com
-0.0.0.0 interstitial-ads-prod-fusepowered.netdna-ssl.com
 0.0.0.0 moneycrashers-sparkchargemedia.netdna-ssl.com
 0.0.0.0 netflame.cc
 0.0.0.0 ads.netflix.com
@@ -9132,7 +9106,6 @@
 0.0.0.0 adsdk.picooapps.com
 0.0.0.0 analytics.picsart.com
 0.0.0.0 ads.pictela.net
-0.0.0.0 sdk.pigqq.com
 0.0.0.0 stats.pingdom.com
 0.0.0.0 rum-collector.pingdom.net
 0.0.0.0 rum-collector-2.pingdom.net
@@ -9536,7 +9509,6 @@
 0.0.0.0 timeline49-clientstats1.pusher.com
 0.0.0.0 timeline51-clientstats1.pusher.com
 0.0.0.0 timeline52-clientstats1.pusher.com
-0.0.0.0 timeline53-clientstats1.pusher.com
 0.0.0.0 ws-ap1.pusher.com
 0.0.0.0 ws-ap2.pusher.com
 0.0.0.0 ws-appfolio.pusher.com
@@ -12083,11 +12055,9 @@
 0.0.0.0 vmed.vrtcal.com
 0.0.0.0 adm.vrtzads.com
 0.0.0.0 adm-cdn.vrtzads.com
-0.0.0.0 banner.vrtzads.com
 0.0.0.0 bidwin.vrtzads.com
 0.0.0.0 cookie.vrtzads.com
 0.0.0.0 dspimp.vrtzads.com
-0.0.0.0 hb.vrtzads.com
 0.0.0.0 imp.vrtzads.com
 0.0.0.0 vu.vrtzads.com
 0.0.0.0 xml.vrtzcontextualads.com
