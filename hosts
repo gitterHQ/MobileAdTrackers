@@ -1777,6 +1777,11 @@
 0.0.0.0 altrooz.com
 0.0.0.0 am15.net
 0.0.0.0 amazemobilemedia.com
+0.0.0.0 aax-us-east.amazon-adsystem.com
+0.0.0.0 mads.amazon-adsystem.com
+0.0.0.0 s.amazon-adsystem.com
+0.0.0.0 device-metrics-us.amazon.com
+0.0.0.0 device-metrics-us-2.amazon.com
 0.0.0.0 appsflyer-web-4-962407740.eu-west-1.elb.amazonaws.com
 0.0.0.0 rpc-tapjoy-com-lb-1378811527.us-east-1.elb.amazonaws.com
 0.0.0.0 tapjoy-com-lb-vpc-332546193.us-east-1.elb.amazonaws.com
@@ -5186,6 +5191,7 @@
 0.0.0.0 globadmedia.com
 0.0.0.0 globaladmedia.com
 0.0.0.0 globalismedia.com
+0.0.0.0 trans.globalnetworkad.com
 0.0.0.0 glossom.co.jp
 0.0.0.0 servicelocator.dh16.prod.glu-wa.com
 0.0.0.0 prd1.personalization.centech.glulive.com
@@ -5196,6 +5202,7 @@
 0.0.0.0 go-mpulse.net
 0.0.0.0 c.go-mpulse.net
 0.0.0.0 s.go-mpulse.net
+0.0.0.0 s2.go-mpulse.net
 0.0.0.0 api.ads.watchabc.go.com
 0.0.0.0 tapjoy.go2cloud.org
 0.0.0.0 kissmyads.go2jump.org
@@ -7364,6 +7371,7 @@
 0.0.0.0 dsp.send.microadinc.com
 0.0.0.0 s-rtb.send.microadinc.com
 0.0.0.0 ssp.send.microadinc.com
+0.0.0.0 mobile.pipe.aria.microsoft.com
 0.0.0.0 bingads.microsoft.com
 0.0.0.0 advertise.bingads.microsoft.com
 0.0.0.0 vortex.data.microsoft.com
@@ -10444,6 +10452,7 @@
 0.0.0.0 lead.soperson.com
 0.0.0.0 yun-static.soperson.com
 0.0.0.0 sortable.com
+0.0.0.0 smetrics.southwest.com
 0.0.0.0 aan.speedshiftmedia.com
 0.0.0.0 adserving.aan.speedshiftmedia.com
 0.0.0.0 adserving.speedshiftmedia.com
