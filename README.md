@@ -3,6 +3,8 @@
 
 After talks with PerfectSlayer, this list now replaces the Adaway list and I will help maintain it there.
 https://github.com/AdAway/adaway.github.io
+While the Adaway list was more popular and sourced as the basis of many unified lists, it hadn't been touched since 2016 and the domains it did have were approx. 52% inactive.  (Check your lists with PyFunceble by funilrys!)
+
 PerfectSlayer also made a slick domain sorting utility in the adaway repo that replicated some sorting to the list that I'd do in LibreOffice Calc to keep domains and subdomains clumped together.  it's in that repo under the /tools folder.  To run it you have to have node.js or some other javascript program and execute js index.js which will then read the contents of whatever is in the hosts.txt file in the main directory and sort the file outputted as formatted-hosts.txt.  Looks pretty!
 *****
 
