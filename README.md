@@ -17,7 +17,10 @@ https://raw.githubusercontent.com/jawz101/MobileAdTrackers/master/hosts
 To give you an idea of why we need better mobile ad lists take a look at [Marketing Technology Landscape Supergraphic - Martec](https://chiefmartec.com/2019/04/marketing-technology-landscape-supergraphic-2019/).
 
 Rationale: Other blocklists are fine for blocking desktop and browser-based domains but not too focused on mobile app traffic.
+*****
 
+"The more of your private life you put into the public domain, the smaller your private life becomes."- Kevin McCloud
+*****
 Apps and other resources interested in Android mobile privacy efforts:
 
 |Utilities & Resources|
