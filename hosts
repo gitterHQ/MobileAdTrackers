@@ -1676,12 +1676,6 @@
 0.0.0.0 ailamtrieuphu.com
 0.0.0.0 aimadigital.com
 0.0.0.0 aimatch.com
-0.0.0.0 airbrake.io
-0.0.0.0 airbrake-github.airbrake.io
-0.0.0.0 airbrake-gitlab.airbrake.io
-0.0.0.0 api.airbrake.io
-0.0.0.0 ssljscdn.airbrake.io
-0.0.0.0 glassbox.aircanada.ca
 0.0.0.0 airpush.com
 0.0.0.0 ab.airpush.com
 0.0.0.0 api.airpush.com
@@ -2399,7 +2393,6 @@
 0.0.0.0 intouch.arcsoft.com
 0.0.0.0 api.areametrics.com
 0.0.0.0 production-api.areametrics.com
-0.0.0.0 sdk.arengu.com
 0.0.0.0 dptr.areyouahuman.com
 0.0.0.0 n-cdn.areyouahuman.com
 0.0.0.0 groundcontrol.aroundmeapi.com
@@ -3190,7 +3183,6 @@
 0.0.0.0 c.cintnetworks.com
 0.0.0.0 api.circularhub.com
 0.0.0.0 app.cision.com
-0.0.0.0 mb.cision.com
 0.0.0.0 prapi.cision.com
 0.0.0.0 pt.cision.com
 0.0.0.0 cityads.ru
@@ -3217,8 +3209,6 @@
 0.0.0.0 touch-heresite.cleverpush.com
 0.0.0.0 tvspielfilm.cleverpush.com
 0.0.0.0 waz.cleverpush.com
-0.0.0.0 eu2.cleverreach.com
-0.0.0.0 seu2.cleverreach.com
 0.0.0.0 api.clevertap.com
 0.0.0.0 in.api.clevertap.com
 0.0.0.0 campaigns.clevertap.com
@@ -3720,7 +3710,6 @@
 0.0.0.0 dmp.delidatax.com
 0.0.0.0 dtc.delidatax.com
 0.0.0.0 ads.deliverimp.com
-0.0.0.0 deliveroo.com.sg
 0.0.0.0 deloton.com
 0.0.0.0 collect10059bltbg.deltadna.net
 0.0.0.0 collect10077vpspd.deltadna.net
@@ -4413,7 +4402,6 @@
 0.0.0.0 bejeweled-skies-prod.elasticbeanstalk.com
 0.0.0.0 bugsee-api-prod.elasticbeanstalk.com
 0.0.0.0 ad2games-adserver-production.eu-west-1.elasticbeanstalk.com
-0.0.0.0 heatmaprestapi-production.eu-west-1.elasticbeanstalk.com
 0.0.0.0 tp-rtb-adserver-eu.eu-west-1.elasticbeanstalk.com
 0.0.0.0 fusion-iad-dev-clogs-eqbrmmvphc.elasticbeanstalk.com
 0.0.0.0 houseads-prod.elasticbeanstalk.com
@@ -5201,9 +5189,6 @@
 0.0.0.0 hastrk3.com
 0.0.0.0 hbi-ingest.net
 0.0.0.0 cdn.hdat.xyz
-0.0.0.0 beacon-v2.helpscout.net
-0.0.0.0 beaconapi.helpscout.net
-0.0.0.0 mobilityware.helpshift.com
 0.0.0.0 bannerwall.herewetest.com
 0.0.0.0 adv.herocraft.com
 0.0.0.0 gamestats.herocraft.com
@@ -5806,8 +5791,6 @@
 0.0.0.0 api.insmobi.com
 0.0.0.0 cdn.inspectlet.com
 0.0.0.0 hn.inspectlet.com
-0.0.0.0 instabug.com
-0.0.0.0 api.instabug.com
 0.0.0.0 installp.com
 0.0.0.0 installrevenue.com
 0.0.0.0 installtracker.com
@@ -5859,7 +5842,6 @@
 0.0.0.0 ci-first.iovation.com
 0.0.0.0 ci-mpsnare.iovation.com
 0.0.0.0 first.iovation.com
-0.0.0.0 ip-api.com
 0.0.0.0 logservices.ipass.com
 0.0.0.0 om-datacollector.ipass.com
 0.0.0.0 4q.iperceptions.com
@@ -6543,14 +6525,11 @@
 0.0.0.0 analytics.localytics.com
 0.0.0.0 api.localytics.com
 0.0.0.0 cold.localytics.com
-0.0.0.0 dashboard.localytics.com
-0.0.0.0 ebooks.localytics.com
 0.0.0.0 eng.localytics.com
 0.0.0.0 go.localytics.com
 0.0.0.0 lyssh.gw.localytics.com
 0.0.0.0 two-ply.gw.localytics.com
 0.0.0.0 two-ply-dev.gw.localytics.com
-0.0.0.0 info.localytics.com
 0.0.0.0 manifest.localytics.com
 0.0.0.0 profile.localytics.com
 0.0.0.0 profileview.localytics.com
@@ -9355,7 +9334,6 @@
 0.0.0.0 vast.quantserve.com
 0.0.0.0 api.quantumgraph.com
 0.0.0.0 users.quantumgraph.com
-0.0.0.0 api.queryly.com
 0.0.0.0 questionmarket.com
 0.0.0.0 quigo.com
 0.0.0.0 adserver.quizdingo.com
@@ -9446,7 +9424,6 @@
 0.0.0.0 cm.revcontent.com
 0.0.0.0 cm-s1.revcontent.com
 0.0.0.0 code.revcontent.com
-0.0.0.0 faq.revcontent.com
 0.0.0.0 files.revcontent.com
 0.0.0.0 img.revcontent.com
 0.0.0.0 internal.revcontent.com
@@ -11815,7 +11792,6 @@
 0.0.0.0 cdn.wootric.com
 0.0.0.0 cxi-api.wootric.com
 0.0.0.0 eligibility.wootric.com
-0.0.0.0 engineering.wootric.com
 0.0.0.0 info.wootric.com
 0.0.0.0 intercom-assets.wootric.com
 0.0.0.0 production.wootric.com
